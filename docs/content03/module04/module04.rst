@@ -1,11 +1,16 @@
 BIG-IP Next CMのGUIアクセス確認
 ======================================
 
-初期設定コマンドの実行
+UDF環境からCM GUIへのアクセス方法
 --------------------------------------
 
-- **"setup"** コマンドを実行し、ホスト名、Mgmt IP、NTPサーバ等の設定を行います。
+UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Managerインスタンスの"ACCESS" > "GUI" を選択します。
 
 .. figure:: images/c3-m4-1.png
    :scale: 20%
    :align: center
+
+
+UDF環境からCM GUIへのアクセス方法
+--------------------------------------
+
