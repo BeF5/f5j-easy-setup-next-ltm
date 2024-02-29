@@ -17,7 +17,7 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Man
 
 - "New Password"の入力:
    - **Welcome123!**
-を新パスワードとして設定します。（任意のパスワードでOK）
+  を新パスワードとして設定します。（任意のパスワードでOK）
 
 .. figure:: images/c3-m2-2.png
    :scale: 20%
