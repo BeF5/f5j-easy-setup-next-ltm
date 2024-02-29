@@ -10,6 +10,10 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Man
    :scale: 20%
    :align: center
 
+
+BIG-IP Next CM CLIへのログイン
+--------------------------------------
+
 ログインプロンプトが表示されたら、初期パスワードを入力します。
 
 - 初期ユーザー名/パスワード:
@@ -18,6 +22,9 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Man
 - "New Password"の入力:
    - **Welcome123!**
   を新パスワードとして設定します。（任意のパスワードでOK）
+
+
+パスワード設定完了すると、以下画面のようにロゴが表示されCLIにログインします。
 
 .. figure:: images/c3-m2-2.png
    :scale: 20%
