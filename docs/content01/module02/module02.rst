@@ -9,6 +9,12 @@ F5は、2023年に、次世代アーキテクチャーを採用したソフト�
    :align: center
 
 
+このイメージのように、TMOSではControl Plane、Data Plane、それぞれの機能モジュール全てを1つのイメージとして提供していましたが、BIG-IP Nextではそれらが１つ１つのコンテナとして分離されています。
+
+.. figure:: images/c1-m2-2.png
+   :scale: 20%
+   :align: center
+
 BIG-IP NextのモダンかつAPIを中核としたソフトウェア・アーキテクチャがさまざまな価値をもたらします。
 
 - 運用の複雑さを軽減
