@@ -18,5 +18,5 @@ https://my.f5.com/
 
 
 .. figure:: images/c3-m1-1.png
-   :scale: 80%
+   :scale: 20%
    :align: center
