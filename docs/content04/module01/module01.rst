@@ -21,9 +21,14 @@ BIG-IP Next VEインスタンス サポート動作環境（v20.1時点）
 最新情報は以下サイトご参照ください。
 
 - VMware vSphere
+
    - https://clouddocs.f5.com/bigip-next/latest/install/next_install_vmware_setup_script.html
 - KVM
+
    - https://clouddocs.f5.com/bigip-next/latest/install/next_install_kvm_setup.html
+
+.. note::
+   Hardware PlatformのrSeries/Velos上での動作条件は別途ご確認ください。
 
 |
 CMイメージの入手
