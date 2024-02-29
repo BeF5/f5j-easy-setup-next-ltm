@@ -12,11 +12,12 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Man
 
 ログインプロンプトが表示されたら、初期パスワードを入力します。
 
--初期ユーザー名/パスワード:
+- 初期ユーザー名/パスワード
    - **admin/admin**
 
--"New Password"の入力:
+- "New Password"の入力
    - **Welcome123!**
+
   を新パスワードとして設定します。（任意のパスワードでOK）
 
 .. figure:: images/c3-m2-2.png
