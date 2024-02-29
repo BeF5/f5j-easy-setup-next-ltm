@@ -42,7 +42,7 @@ UDF環境からCM GUIへのアクセス方法
    :scale: 20%
    :align: center
 
-
+|
 CMのHome画面が表示されていれば初期セットアップ完了です。
 
 .. figure:: images/c3-m4-5.png
