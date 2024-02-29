@@ -9,6 +9,7 @@ BIG-IP Next VEインスタンス サポート動作環境（v20.1時点）
 
 - ハイパーバイザー: VMware vSphere version 7.x or KVM QEMU 6.2 on Ubuntu 22.04
 - CPU/Memory:
+
   - 2 vCPUs/8GB RAM
   - 4 vCPUs/8GB RAM
   - 6 vCPUs/12GB RAM
