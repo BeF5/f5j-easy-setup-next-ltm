@@ -1,4 +1,4 @@
-BIG-IP Next CMイメージの準備
+BIG-IP Nextインスタンス イメージの準備
 ======================================
 
 .. note::
@@ -31,7 +31,7 @@ BIG-IP Next VEインスタンス サポート動作環境（v20.1時点）
    Hardware PlatformのrSeries/Velos上での動作条件は別途ご確認ください。
 
 |
-CMイメージの入手
+イメージの入手
 --------------------------------------
 
 MyF5より入手します。
@@ -40,6 +40,6 @@ https://my.f5.com/
 **RESOURCES >> Downloads**
 
 
-.. figure:: images/c3-m1-1.png
+.. figure:: images/c4-m1-1.png
    :scale: 20%
    :align: center
