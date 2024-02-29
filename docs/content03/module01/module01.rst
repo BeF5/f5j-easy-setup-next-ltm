@@ -14,6 +14,8 @@ CMイメージの入手
 MyF5より入手します。
 https://my.f5.com/
 
+   **RESOURCES >> Downloads**
+
 
 .. figure:: images/c3-m1-1.png
    :scale: 50%
