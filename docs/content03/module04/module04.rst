@@ -14,3 +14,30 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Man
 UDF環境からCM GUIへのアクセス方法
 --------------------------------------
 
+サインイン画面が表示されたら、初期パスワードを入力します。
+
+.. figure:: images/c3-m4-2.png
+   :scale: 20%
+   :align: center
+
+- 初期ユーザー名/パスワード:
+   - **admin/admin**
+
+初回はNew Password設定を求められるので設定します。
+
+.. figure:: images/c3-m4-3.png
+   :scale: 20%
+   :align: center
+
+- "Current Password"の入力:
+   - **admin**
+- "New Password"の入力:
+   - **Welcome123!**
+  を新パスワードとして設定します。（任意のパスワードでOK）
+
+
+パスワード設定完了すると、再度サインイン画面が表示されるので設定した新パスワードでログインします。
+
+.. figure:: images/c3-m4-4.png
+   :scale: 20%
+   :align: center
