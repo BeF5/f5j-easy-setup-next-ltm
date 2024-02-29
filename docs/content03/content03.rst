@@ -2,7 +2,7 @@
 BIG-IP Next Central Managerインスタンス作成
 ================================================
 
-本章では、BIG-IP Next Central Manager（以下、CM）のインスタンス作成、初期セットアップを実施します。
+BIG-IP Next Central Manager（以下、CM）のインスタンス作成、初期セットアップを実施します。
 
 
 .. toctree::
