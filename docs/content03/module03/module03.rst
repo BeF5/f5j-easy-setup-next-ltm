@@ -22,7 +22,9 @@ BIG-IP Next CMの初期セットアップ
 
 - Summaryを確認してy(yes)でEnter
 
-上記実行してから4,5分待つと以下プロンプトが返ってくるので**"Y"**を入力しEnter。
+上記実行してから4,5分待つと以下プロンプトが返ってくるので
+　  　- **"Y"**
+を入力しEnter。
 
 .. figure:: images/c3-m3-2.png
    :scale: 20%
