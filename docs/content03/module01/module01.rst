@@ -20,6 +20,7 @@ BIG-IP Next CMサポート動作環境（v20.1時点）
 - KVM
    - https://clouddocs.f5.com/bigip-next/latest/install/cm_install_setup_mbip_kvm.html
 
+|
 CMイメージの入手
 --------------------------------------
 
