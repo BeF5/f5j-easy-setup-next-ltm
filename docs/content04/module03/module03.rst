@@ -1,1 +1,37 @@
+BIG-IP Next の初期セットアップ
+======================================
 
+初期設定コマンドの実行
+--------------------------------------
+
+- BIG-IP Next Instance1 にログイン、**"setup"** コマンドを実行し、ホスト名、Mgmt IP、VLAN、Self IP等の設定を行います。
+
+.. figure:: images/c4-m3-1.png
+   :scale: 50%
+   :align: center
+
+- Hostname:
+   - **cm.f5lab.local**
+- IP Address:
+   - **設定済み**
+- Primary NTP server address: 
+   - **ntp.nict.jp**
+- Do you want to set up an external storage mount: 
+   - **n**
+- 上記以外はDefaultのままEnter
+
+- Summaryを確認してy(yes)でEnter
+
+上記実行してから4,5分待つと以下プロンプトが返ってくるので
+**"Y"**
+を入力しEnter。
+
+.. figure:: images/c3-m3-2.png
+   :scale: 50%
+   :align: center
+
+さらに7,8分待つと以下メッセージが表示され完了。
+
+.. figure:: images/c3-m3-3.png
+   :scale: 50%
+   :align: center
