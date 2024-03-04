@@ -5,5 +5,5 @@ BIG-IP Next HA冗長構成のシナリオでは以下のネットワーク環境
 
 
 .. figure:: images/c2-m2-1.png
-   :scale: 50%
+   :scale: 20%
    :align: center
