@@ -7,7 +7,7 @@ BIG-IP Next CMの初期セットアップ
 - **"setup"** コマンドを実行し、ホスト名、Mgmt IP、NTPサーバ等の設定を行います。
 
 .. figure:: images/c3-m3-1.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 - Hostname:
@@ -27,12 +27,12 @@ BIG-IP Next CMの初期セットアップ
 を入力しEnter。
 
 .. figure:: images/c3-m3-2.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 さらに7,8分待つと以下メッセージが表示され完了。
 
 .. figure:: images/c3-m3-3.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
