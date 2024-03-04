@@ -48,11 +48,8 @@ Instance1 初期設定コマンドの実行
 Instance2 初期設定コマンドの実行
 --------------------------------------
 
-- 同様にBIG-IP Next Instance2 側でも**"setup"** コマンドを実行し設定を行います。
+- 同様にBIG-IP Next Instance2 側でも **"setup"** コマンドを実行し設定を行います。
 
-.. figure:: images/c4-m3-1.png
-   :scale: 40%
-   :align: center
 
 - Hostname:
    - **big02.f5lab.local**
