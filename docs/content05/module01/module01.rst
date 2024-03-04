@@ -23,3 +23,9 @@ BIG-IP Next CM GUIへのログイン
 - ユーザー名/パスワード:
    - **admin/Welcome123!**
 
+
+ログインすると次のようなホーム画面が確認できます。
+
+.. figure:: images/c5-m1-3.png
+   :scale: 50%
+   :align: center
