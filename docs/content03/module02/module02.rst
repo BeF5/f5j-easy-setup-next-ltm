@@ -7,7 +7,7 @@ UDF環境からCM Consoleへのアクセス方法
 UDF画面上部タブの"DEPLOYMENT"をクリックし、BIG-IP Next Central Managerインスタンスの"ACCESS" > "CONSOLE" を選択します。
 
 .. figure:: images/c3-m2-1.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 
