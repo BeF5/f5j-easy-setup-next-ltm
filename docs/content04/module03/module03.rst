@@ -13,7 +13,7 @@ Instance1 初期設定コマンドの実行
 - Hostname:
    - **big01.f5lab.local**
 - IP Address:
-   - **設定済み**
+   - **N (設定済み)**
 - Primary NTP server address: 
    - **ntp.nict.jp**
 - VLAN1 name: 
@@ -54,7 +54,7 @@ Instance2 初期設定コマンドの実行
 - Hostname:
    - **big02.f5lab.local**
 - IP Address:
-   - **設定済み**
+   - **N (設定済み)**
 - Primary NTP server address: 
    - **ntp.nict.jp**
 - VLAN1 name: 
