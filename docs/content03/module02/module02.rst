@@ -27,5 +27,5 @@ BIG-IP Next CM CLIへのログイン
 パスワード設定完了すると、以下画面のようにロゴが表示されCLIにログインします。
 
 .. figure:: images/c3-m2-2.png
-   :scale: 20%
+   :scale: 50%
    :align: center
