@@ -16,10 +16,8 @@ BIG-IP Next CMサポート動作環境（v20.1時点）
 最新情報は以下サイトご参照ください。
 
 - ESXi
-
    - https://clouddocs.f5.com/bigip-next/latest/install/cm_install_vmware.html
 - KVM
-
    - https://clouddocs.f5.com/bigip-next/latest/install/cm_install_setup_mbip_kvm.html
 
 |
@@ -33,5 +31,5 @@ https://my.f5.com/
 
 
 .. figure:: images/c3-m1-1.png
-   :scale: 20%
+   :scale: 50%
    :align: center
