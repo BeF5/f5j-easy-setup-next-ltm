@@ -31,5 +31,5 @@ https://my.f5.com/
 
 
 .. figure:: images/c3-m1-1.png
-   :scale: 50%
+   :scale: 100%
    :align: center
