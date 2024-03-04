@@ -39,5 +39,5 @@ https://my.f5.com/
 
 
 .. figure:: images/c4-m1-1.png
-   :scale: 50%
+   :scale: 20%
    :align: center
