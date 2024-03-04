@@ -4,6 +4,8 @@ BIG-IP Next Central Managerインスタンス作成
 
 BIG-IP Next Central Manager（以下、CM）のインスタンス作成、初期セットアップを実施します。
 
+.. note::
+   この第３章は、インスタンスの初期セットアップから実施するコースの場合のみ作業対象となります。アプリケーション作成から実施するコースの場合は本章は参考情報とし、第５章から進めてください。
 
 .. toctree::
    :titlesonly:
