@@ -5,5 +5,5 @@ BIG-IP Next シングル構成のシナリオでは以下のネットワーク�
 
 
 .. figure:: images/c2-m1-1.png
-   :scale: 50%
+   :scale: 30%
    :align: center
