@@ -55,3 +55,20 @@ NEXTインスタンスのIPアドレスを入力します。
    :scale: 50%
    :align: center
 
+- IP Address/FQDN:
+   - **10.1.1.7**
+- **"Connect"** をクリック
+
+
+|
+NEXTインスタンスのCredentialを入力します。
+
+.. figure:: images/c5-m1-7.png
+   :scale: 50%
+   :align: center
+
+- Username:
+   - **admin**
+- Password:
+   - **Welcome123!**
+- **"Submit"** をクリック
