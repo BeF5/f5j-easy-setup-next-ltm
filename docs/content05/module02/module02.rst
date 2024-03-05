@@ -89,14 +89,21 @@ JWTライセンスキーをNew Tokenとして登録、アクティベーショ�
 
 - **"New Token"** を選択
 - Enter or paste the JSON Web Token(JWT)
-   - 先の手順で保存したJWTキーをペーストする
+   - 保存したJWTキーをペーストする
 - Token Name:
    - **demo token** （任意の名前で可）
 - **"Activate"** をクリック
 
+.. note::
+   後の手順でInstance2 では"Existing Token"でここで投入した既存ライセンスを選択します。
 
 
+|
+ライセンスのStatusが **”Active”** になっていることを確認します。
 
+.. figure:: images/c5-m2-10.png
+   :scale: 40%
+   :align: center
 
 
 
