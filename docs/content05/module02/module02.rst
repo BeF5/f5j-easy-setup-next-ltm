@@ -70,14 +70,34 @@ BIG-IP Next CMにログインし、Infrastructure (Manage Instances)の画面で
 左部メニューから **“License”** を選択し、 **“Activate License”**　をクリックします。
 
 .. figure:: images/c5-m2-7.png
-   :scale: 35%
+   :scale: 40%
    :align: center
 
 |
 確認画面で **"Next"** をクリックします。
 
 .. figure:: images/c5-m2-8.png
-   :scale: 35%
+   :scale: 45%
    :align: center
 
 |
+JWTライセンスキーをNew Tokenとして登録、アクティベーションします。
+
+.. figure:: images/c5-m2-9.png
+   :scale: 40%
+   :align: center
+
+- **"New Token"** を選択
+- Enter or paste the JSON Web Token(JWT)
+   - 先の手順で保存したJWTキーをペーストする
+- Token Name:
+   - **demo token** （任意の名前で可）
+- **"Activate"** をクリック
+
+
+
+
+
+
+
+
