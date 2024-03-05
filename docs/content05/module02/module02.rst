@@ -1,1 +1,22 @@
+Nextインスタンス　ライセンスアクティベーション
+======================================
+
+ライセンスオーバービュー
+--------------------------------------
+
+.. figure:: images/c5-m2-1.png
+   :scale: 50%
+   :align: center
+|
+- BIG-IP Nextインスタンス用のライセンスは、Central ManagerにLoadし、Central Managerがライセンス管理を行う
+- Central Managerが、F5のライセンスサーバと通信を行い利用状況等をチェック
+- BIG-IP Next Central Manager自体には、ライセンスは不要 (無償製品)
+- 参考URL
+  - https://clouddocs.f5.com/bigip-next/latest/use_cm/cm_license_bigip_next.html 
+
+|
+ライセンスの入手
+--------------------------------------
+
+MyF5よりTrialライセンスを入手します。
 
