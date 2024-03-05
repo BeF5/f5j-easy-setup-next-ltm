@@ -29,3 +29,29 @@ BIG-IP Next CM GUIへのログイン
 .. figure:: images/c5-m1-3.png
    :scale: 50%
    :align: center
+
+
+BIG-IP Next Instance1 をCMへ登録
+--------------------------------------
+
+ホーム画面の"Manage Instances"をクリックします。
+
+.. figure:: images/c5-m1-4.png
+   :scale: 50%
+   :align: center
+
+
+|
+“Start Adding Instances”をクリックします。
+
+.. figure:: images/c5-m1-5.png
+   :scale: 50%
+   :align: center
+
+|
+NEXTインスタンスのIPアドレスを入力します。
+
+.. figure:: images/c5-m1-6.png
+   :scale: 50%
+   :align: center
+
