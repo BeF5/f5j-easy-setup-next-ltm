@@ -95,7 +95,7 @@ JWTライセンスキーをNew Tokenとして登録、アクティベーショ�
 - **"Activate"** をクリック
 
 .. note::
-   後の手順でInstance2 では"Existing Token"でここで投入した既存ライセンスを選択します。
+   後の手順のInstance2では"Existing Token"を選択し、ここで投入した既存ライセンスを利用します。
 
 
 |
