@@ -55,3 +55,15 @@ MyF5よりTrialライセンス(JWTキー)を入手します。
    :scale: 50%
    :align: center
 
+
+|
+ライセンスのインストール
+--------------------------------------
+
+BIG-IP Next CMにログインし、Infrastructure (Manage Instances)の画面で、ライセンスをアクティベーションするインスタンスをクリックします。
+
+.. figure:: images/c5-m2-6.png
+   :scale: 50%
+   :align: center
+
+
