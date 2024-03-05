@@ -25,22 +25,29 @@ MyF5よりTrialライセンス(JWTキー)を入手します。
 .. note::
    MyF5アカウントをお持ちの場合は、自身のアカウントからライセンス発行いただいてご利用ください。あるいはUDFハンズオン環境のWindows ClientのDesktop上に準備済みの仮ライセンスをご利用ください。
 
+"TRIALS"をクリックします。
 .. figure:: images/c5-m2-2.png
    :scale: 50%
    :align: center
 
-"TRIALS"をクリックします。
 
 |
+"BIG-IP Next"をクリックします。
 .. figure:: images/c5-m2-3.png
    :scale: 50%
    :align: center
 
-"BIG-IP Next"をクリックします。
 
 |
+“Downloads and licenses”をクリックします。
 .. figure:: images/c5-m2-4.png
    :scale: 50%
    :align: center
 
-“Downloads and licenses”をクリックします。
+
+|
+“Copy JSON Web Token”をクリックしてテキストエディタにペーストしておくか、Downloadして保存しておきます。
+.. figure:: images/c5-m2-5.png
+   :scale: 50%
+   :align: center
+
