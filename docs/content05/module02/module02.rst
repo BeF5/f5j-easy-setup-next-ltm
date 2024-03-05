@@ -106,5 +106,10 @@ JWTライセンスキーをNew Tokenとして登録、アクティベーショ�
    :align: center
 
 
+|
+（参考）ライセンスアクティベート後、各モジュールのプロビジョニングが可能になります。
 
+.. figure:: images/c5-m2-11.png
+   :scale: 40%
+   :align: center
 
