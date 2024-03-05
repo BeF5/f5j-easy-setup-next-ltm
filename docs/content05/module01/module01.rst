@@ -106,5 +106,5 @@ BIG-IP Next CMからNextインスタンスを管理するためのCredentialを�
 すると、以下のようにBIG-IP Nextインスタンスが管理インスタンスリストに追加されます。
 
 .. figure:: images/c5-m1-10.png
-   :scale: 50%
+   :scale: 30%
    :align: center
