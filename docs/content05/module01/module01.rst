@@ -76,3 +76,35 @@ NEXTインスタンスのCredentialを入力します。
 - Password:
    - **Welcome123!**
 - **"Submit"** をクリック
+
+
+|
+BIG-IP Next CMからNextインスタンスを管理するためのCredentialを設定し、”Add Instance”クリックします。
+
+.. figure:: images/c5-m1-8.png
+   :scale: 50%
+   :align: center
+
+- Username:
+   - **admin-cm**
+- Password:
+   - **Welcome123!**
+- **"Add Instance"** をクリック
+
+
+|
+確認画面が表れますので、”Add”クリックします。
+
+.. figure:: images/c5-m1-9.png
+   :scale: 50%
+   :align: center
+
+- **"Add"** をクリック
+
+
+|
+すると、以下のようにBIG-IP Nextインスタンスが管理インスタンスリストに追加されます。
+
+.. figure:: images/c5-m1-10.png
+   :scale: 50%
+   :align: center
