@@ -118,7 +118,7 @@ Pool memberを設定します。
 
 
 |
-設定内容に問題ないかを、適用前に検証することができます。
+設定内容に問題ないかを適用前に検証し、本番適用します。
 
 .. figure:: images/c6-m1-11.png
    :scale: 30%
@@ -129,7 +129,20 @@ Pool memberを設定します。
 - **“Deploy Changes”** をクリックし、次に表示される画面で **”Yes, Deploy”** をクリックします
 
 
+|
+作成したアプリケーションがリストに表示されます。
 
+.. figure:: images/c6-m1-12.png
+   :scale: 30%
+   :align: center
+
+
+|
+作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
+
+.. figure:: images/c6-m1-13.png
+   :scale: 35%
+   :align: center
 
 
 
