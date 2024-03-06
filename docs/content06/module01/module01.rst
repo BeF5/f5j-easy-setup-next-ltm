@@ -117,6 +117,20 @@ Pool memberを設定します。
 - 入力後、 **”Save”** をクリック
 
 
+|
+設定内容に問題ないかを、適用前に検証することができます。
+
+.. figure:: images/c6-m1-11.png
+   :scale: 30%
+   :align: center
+
+- **“Validate All”** をクリックして設定内容を検証、エラーがなく”Validated”の結果が表示されること
+- **“View Results”** で設定反映されるAPI内容を確認可能です
+- **“Deploy Changes”** をクリックし、次に表示される画面で **”Yes, Deploy”** をクリックします
+
+
+
+
 
 
 
