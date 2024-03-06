@@ -99,8 +99,24 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
    :align: center
 
 - Virtual Address:
-   - **１０．１．１０．１００**
+   - **10.1.10.100**
 - Membersの下矢印を展開し、 **“+Pool Members”** をクリック
+
+
+|
+Pool memberを設定します。
+
+.. figure:: images/c6-m1-10.png
+   :scale: 30%
+   :align: center
+
+- **“+Add Row”** を２回クリックし2member分作成
+- Pool Members:
+   - Name: **web-server1** , IP Address: **10.1.20.101**
+   - Name: **web-server2** , IP Address: **10.1.20.102**
+- 入力後、 **”Save”** をクリック
+
+
 
 
 
