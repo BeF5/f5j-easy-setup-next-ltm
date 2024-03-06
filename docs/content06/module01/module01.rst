@@ -54,7 +54,7 @@ Application Service Propertiesの設定画面で、Virtual Server、Pool、Proto
 Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
 .. figure:: images/c6-m1-6.png
-   :scale: 30%
+   :scale: 35%
    :align: center
 
 - Pool Name:
@@ -66,5 +66,28 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 - Monitor Type:
    - **http**
 - 上記設定後、再度 **”Virtual Server”** タブに戻る
+
+
+|
+再度Virtual Server設定で、作成したPoolを選択します。
+
+.. figure:: images/c6-m1-7.png
+   :scale: 30%
+   :align: center
+
+- Pool:
+   - **http-pool**　を選択
+- **“Review & Deploy”** をクリック
+
+
+|
+次ページの“Start Adding”をクリックし、デプロイするインスタンスを選択して”+Add to List”。
+
+.. figure:: images/c6-m1-8.png
+   :scale: 40%
+   :align: center
+
+- **“big01.f5lab.local”** をチェックボックスをチェックする
+
 
 
