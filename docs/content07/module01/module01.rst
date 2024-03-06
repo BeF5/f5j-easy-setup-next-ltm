@@ -13,7 +13,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 |
 **”+Add Application”** をクリックします。
 
-.. figure:: images/c７-m1-2.png
+.. figure:: images/c7-m1-2.png
    :scale: 50%
    :align: center
 
