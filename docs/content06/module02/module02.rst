@@ -10,6 +10,9 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、Windows Clientインス
    :scale: 50%
    :align: center
 
+.. note::
+   RDPが上手く動作しない場合は、"CONSOLE"をお試しください。
+
 
 |
 Windows Clientへのログイン
