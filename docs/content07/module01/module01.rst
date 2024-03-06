@@ -10,6 +10,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
    :scale: 50%
    :align: center
 
+
 |
 **”+Add Application”** をクリックします。
 
