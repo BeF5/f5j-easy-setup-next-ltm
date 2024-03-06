@@ -11,13 +11,27 @@ UDF画面上部タブの"DEPLOYMENT"をクリックし、Windows Clientインス
    :align: center
 
 
+|
 Windows Clientへのログイン
 --------------------------------------
 
 ログイン画面が表示されたら、ID/パスワードを入力します。
 
+.. figure:: images/c6-m2-2.png
+   :scale: 50%
+   :align: center
+
 - ユーザー名/パスワード:
    - **user/user**
+
+
+|
+デスクトップ上のChromeブラウザを開き、ブックマックバーから **http://10.1.10.100/ ** をクリックして作成したアプリケーションのVirtual Server IPへアクセスします。
+下記のようなWebコンテンツが表示されれば通信確認完了です。何度かリロードを繰り返すと、2台のWebサーバからそれぞれ異なるコンテンツが返ってくることが確認できます。
+
+.. figure:: images/c6-m2-3.png
+   :scale: 50%
+   :align: center
 
 
 
