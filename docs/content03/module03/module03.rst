@@ -30,12 +30,12 @@ BIG-IP Next CMの初期セットアップ（参考）
 を入力しEnter。
 
 .. figure:: images/c3-m3-2.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 さらに7,8分待つと以下メッセージが表示され完了。
 
 .. figure:: images/c3-m3-3.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
