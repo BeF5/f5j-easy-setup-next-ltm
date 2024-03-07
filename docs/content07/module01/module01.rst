@@ -31,3 +31,20 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
    - **From Template**　を選択
 - **“Select Template”** をクリック
 
+
+|
+次画面のドロップダウンメニューからテンプレートを選択します。
+
+.. figure:: images/c7-m1-4.png
+   :scale: 50%
+   :align: center
+
+- Application Template:
+   - **HTTPS-Load-Balancing-Service**
+- **“Start Creating”** をクリック
+
+
+
+
+
+
