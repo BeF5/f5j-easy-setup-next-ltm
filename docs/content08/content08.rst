@@ -11,3 +11,6 @@
 - サポート機能については以下Schema Reference参照
   - https://clouddocs.f5.com/bigip-next/latest/support/schema-reference.html
 
+.. figure:: images/c8-1.png
+   :scale: 80%
+   :align: center
