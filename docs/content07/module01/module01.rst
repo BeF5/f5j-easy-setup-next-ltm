@@ -119,3 +119,30 @@ Pool memberを設定します。
    - Name: **web-server2** , IP Address: **10.1.20.102**
 - 入力後、 **”Save”** をクリック
 
+
+|
+設定内容に問題ないかを適用前に検証し、本番適用します。
+
+.. figure:: images/c7-m1-11.png
+   :scale: 30%
+   :align: center
+
+- **“Validate All”** をクリックして設定内容を検証、エラーがなく”Validated”の結果が表示されること
+- **“View Results”** で設定反映されるAPI内容を確認可能です
+- **“Deploy Changes”** をクリックし、次に表示される画面で **”Yes, Deploy”** をクリックします
+
+
+|
+作成したアプリケーションがリストに表示されます。
+
+.. figure:: images/c7-m1-12.png
+   :scale: 30%
+   :align: center
+
+
+|
+作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
+
+.. figure:: images/c7-m1-13.png
+   :scale: 35%
+   :align: center
