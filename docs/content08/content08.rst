@@ -15,3 +15,14 @@
 .. figure:: images/c8-1.png
    :scale: 80%
    :align: center
+
+.. figure:: images/c8-2.png
+   :scale: 40%
+   :align: center
+
+.. figure:: images/c8-3.png
+   :scale: 50%
+   :align: center
+
+- デフォルトでは”http”テンプレートのみ存在
+- デフォルトのテンプレートをコピー or 新規に作成
