@@ -80,4 +80,4 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
    - **round-robin**
 - Monitor Type:
    - **http**
-- 上記設定後、再度 **”Virtual Server”** タブに戻る
+- **”Review & Deploy”** をクリック
