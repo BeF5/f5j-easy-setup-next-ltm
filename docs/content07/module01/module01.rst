@@ -139,7 +139,7 @@ Pool memberを設定します。
 作成したアプリケーションがリストに表示されます。
 
 .. figure:: images/c7-m1-12.png
-   :scale: 30%
+   :scale: 50%
    :align: center
 
 
@@ -147,5 +147,5 @@ Pool memberを設定します。
 作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
 
 .. figure:: images/c7-m1-13.png
-   :scale: 35%
+   :scale: 50%
    :align: center
