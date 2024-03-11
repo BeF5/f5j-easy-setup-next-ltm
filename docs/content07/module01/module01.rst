@@ -49,7 +49,7 @@ Application Service Propertiesの設定画面で、Virtual Server、Pool、Proto
 HTTPSテンプレートのデフォルト設定値が反映済み。
 
 .. figure:: images/c7-m1-5.png
-   :scale: 30%
+   :scale: 40%
    :align: center
 
 （参考）ProtocolおよびHTTPS ProfileのEditマークをクリックすると、Profileのオプション設定画面が開きます。
