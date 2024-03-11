@@ -72,7 +72,7 @@ Virtual Serverタブで設定を入力します。
 Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
 .. figure:: images/c7-m1-7.png
-   :scale: 30%
+   :scale: 35%
    :align: center
 
 - Pool Name:
@@ -101,7 +101,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 次のDeploy画面で、Virtual ServerのIPとPool memberを設定します。
 
 .. figure:: images/c7-m1-9.png
-   :scale: 30%
+   :scale: 35%
    :align: center
 
 - Virtual Address:
@@ -113,7 +113,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 Pool memberを設定します。
 
 .. figure:: images/c7-m1-10.png
-   :scale: 30%
+   :scale: 35%
    :align: center
 
 - **“+Add Row”** を２回クリックし2member分作成
@@ -127,7 +127,7 @@ Pool memberを設定します。
 設定内容に問題ないかを適用前に検証し、本番適用します。
 
 .. figure:: images/c7-m1-11.png
-   :scale: 30%
+   :scale: 35%
    :align: center
 
 - **“Validate All”** をクリックして設定内容を検証、エラーがなく”Validated”の結果が表示されること
