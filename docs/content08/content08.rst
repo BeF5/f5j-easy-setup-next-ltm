@@ -16,6 +16,11 @@
    :scale: 80%
    :align: center
 
+
+|
+アプリケーションテンプレート作成と編集方法
+--------------------------------------
+
 .. figure:: images/c8-2.png
    :scale: 40%
    :align: center
