@@ -58,6 +58,9 @@ HTTPSテンプレートのデフォルト設定値が反映済み。
    :scale: 50%
    :align: center
 
+|
+Virtual Serverタブで設定を入力します。
+
 - Virtual Server Name:
    - **https_vs**
 - Pool:
