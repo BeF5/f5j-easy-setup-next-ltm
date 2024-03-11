@@ -9,6 +9,7 @@
 - GUIでの設定は、事前定義されたテンプレートに基づき、JSON/YAML形式のAS3 APIが生成されNEXTインスタンスへDeployされます。
 - GUI上では未サポートの設定も多数あり、それらはテンプレート内のAPIをカスタマイズして設定する必要があります。
 - サポート機能については以下Schema Reference参照
+
   - https://clouddocs.f5.com/bigip-next/latest/support/schema-reference.html
 
 .. figure:: images/c8-1.png
