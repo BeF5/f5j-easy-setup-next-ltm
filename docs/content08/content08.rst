@@ -12,8 +12,10 @@
 
   - https://clouddocs.f5.com/bigip-next/latest/support/schema-reference.html
 
+テンプレートの実態は以下例のようなJSON/YAML形式のコードです。
+
 .. figure:: images/c8-1.png
-   :scale: 80%
+   :scale: 60%
    :align: center
 
 
@@ -31,3 +33,5 @@
 
 - デフォルトでは”http”テンプレートのみ存在
 - デフォルトのテンプレートをコピー or 新規に作成
+
+次章より、実際のテンプレートの編集を実施していきます。
