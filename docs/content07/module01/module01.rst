@@ -44,7 +44,40 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 - **“Start Creating”** をクリック
 
 
+|
+Application Service Propertiesの設定画面で、Virtual Server、Pool、Protocol Profiles等の構成を定義します。
+HTTPSテンプレートのデフォルト設定値が反映済み。
+
+.. figure:: images/c7-m1-5.png
+   :scale: 30%
+   :align: center
+
+（参考）ProtocolおよびHTTPS ProfileのEditマークをクリックすると、Profileのオプション設定画面が開きます。
+
+.. figure:: images/c7-m1-6.png
+   :scale: 50%
+   :align: center
+
+- Virtual Server Name:
+   - **https_vs**
+- Pool:
+   - **my_pool**
+- **“Pools”** タブをクリック
 
 
+|
+Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
+.. figure:: images/c7-m1-7.png
+   :scale: 30%
+   :align: center
 
+- Pool Name:
+   - **my_pool**
+- Server Port:
+   - **80**
+- Load-Balancing Mode:
+   - **round-robin**
+- Monitor Type:
+   - **http**
+- 上記設定後、再度 **”Virtual Server”** タブに戻る
