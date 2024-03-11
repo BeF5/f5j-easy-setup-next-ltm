@@ -81,3 +81,27 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 - Monitor Type:
    - **http**
 - **”Review & Deploy”** をクリック
+
+
+|
+次ページの **“Start Adding”** をクリックし、デプロイするインスタンスを選択します。
+
+.. figure:: images/c7-m1-8.png
+   :scale: 40%
+   :align: center
+
+- **“big01.f5lab.local”** のチェックボックスをチェックする
+- **“+Add to List”** をクリック
+
+
+|
+次のDeploy画面で、Virtual ServerのIPとPool memberを設定します。
+
+.. figure:: images/c7-m1-9.png
+   :scale: 30%
+   :align: center
+
+- Virtual Address:
+   - **10.1.10.100**
+- Membersの下矢印を展開し、 **“+Pool Members”** をクリック
+
