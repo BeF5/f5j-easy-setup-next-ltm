@@ -35,3 +35,10 @@
 - デフォルトのテンプレートをコピー or 新規に作成
 
 次章より、実際のテンプレートの編集を実施していきます。
+
+.. toctree::
+   :titlesonly:
+   :caption: 目次:
+   :glob:
+
+   module**/module**
