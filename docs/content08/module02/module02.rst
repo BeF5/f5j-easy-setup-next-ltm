@@ -13,7 +13,7 @@ Virtual Serverの各種デフォルトの設定値を変更します。
 Virtual Server Portを443から8443へ変更
 --------------------------------------
 
-Template Bodyの中の、defaultポート番号設定の箇所を **”443”** から **”8443”** に編集します。
+Template Bodyの中の、defaultポート番号設定の箇所を **”443”** から **”8443”** へ変更します。
 
 ※ **virtualport** や **443** 等の文字列でブラウザ文字検索すると該当箇所を簡単に見つけることができます。
 
@@ -27,12 +27,26 @@ Template Bodyの中の、defaultポート番号設定の箇所を **”443”** 
 default Monitor typeをhttpからhttpsへ変更
 --------------------------------------
 
-Template Bodyの中の、Monitor Typeを **”http”** から **”https”** に編集します。
+Template Bodyの中の、Monitor Typeを **”http”** から **”https”** へ変更します。
 
 ※ **pools** 等の文字列でブラウザ文字検索すると該当箇所を簡単に見つけることができます。
 
 
 .. figure:: images/c8-m2-3.png
+   :scale: 40%
+   :align: center
+
+
+|
+default Monitor typeをhttpからhttpsへ変更
+--------------------------------------
+
+Template Bodyの中の、Server-Side-TLSを **default false** から **true** へ変更します。
+
+※ **enable_TLS_Server ** 等の文字列でブラウザ文字検索すると該当箇所を簡単に見つけることができます。
+
+
+.. figure:: images/c8-m2-4.png
    :scale: 40%
    :align: center
 
