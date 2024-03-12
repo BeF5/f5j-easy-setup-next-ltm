@@ -21,4 +21,15 @@ Template Bodyの中の、defaultポート番号設定の箇所を **”443”** 
    :align: center
 
 
+|
+default Monitor typeをhttpからhttpsへ変更
+--------------------------------------
+
+Template Bodyの中の、Monitor Typeを **”http”** から **”https”** に編集します。
+※ **pools** 等の文字列でブラウザ文字検索すると該当箇所を簡単に見つけることができます。
+
+
+.. figure:: images/c8-m2-3.png
+   :scale: 40%
+   :align: center
 
