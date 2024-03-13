@@ -51,7 +51,7 @@ TCPパラメーターの追加
 TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定します。
 
 .. figure:: images/c8-m3-6.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 |
