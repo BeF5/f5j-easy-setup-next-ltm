@@ -113,9 +113,11 @@ Template Body変更・Save後に、変更内容がテンプレートに反映さ
    :align: center
 
 |
-”Enable TCP Profile”を有効にすると、"Proxy Buffer High"の設定項目が増えているのを確認できます。
+”Enable TCP Profile”を有効にすると、"Proxy Buffer High"の設定項目が増えています。
 
 .. figure:: images/c8-m3-11.png
    :scale: 50%
    :align: center
 
+
+Cancelしてダッシュボードに戻ります。
