@@ -55,9 +55,9 @@ TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定しま
    :align: center
 
 |
-上記該当箇所に、以下テキストをコピーペーストして挿入してください。
+上記該当箇所に、以下テキストをコピーペーストして挿入し、 **"Save"** してください。
 
-   .. code-block:: bash
+.. code-block:: cmdin
 
     　　 TCP_proxy_buffer_high:
           　　     title: Proxy Buffer High
@@ -73,7 +73,14 @@ TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定しま
 
 
 |
-上記該当箇所に、以下テキストをコピーペーストして挿入してください。
+変更後のテンプレート確認
+--------------------------------------
+
+My Application Servicesから“+Add Application”をクリックします。
+
+.. figure:: images/c8-m3-7.png
+   :scale: 50%
+   :align: center
 
 
 
