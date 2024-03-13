@@ -98,5 +98,24 @@ Template Body変更・Save後に、変更内容がテンプレートに反映さ
    :scale: 40%
    :align: center
 
+|
+”Start Creating”をクリックします。
 
+.. figure:: images/c8-m3-9.png
+   :scale: 40%
+   :align: center
+
+|
+”Protocols & Profiles”のEditマークをクリックします。
+
+.. figure:: images/c8-m3-10.png
+   :scale: 50%
+   :align: center
+
+|
+”Enable TCP Profile”を有効にすると、"Proxy Buffer High"の設定項目が増えているのを確認できます。
+
+.. figure:: images/c8-m3-11.png
+   :scale: 50%
+   :align: center
 
