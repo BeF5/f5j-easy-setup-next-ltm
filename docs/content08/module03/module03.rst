@@ -57,6 +57,8 @@ TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定しま
 |
 上記該当箇所に、以下テキストをコピーペーストして挿入し、 **"Save"** してください。
 
+※直上の”TCP_idle_timeout”を参考に、スペース・インデントを合わせるようご注意ください。
+
 .. code-block:: cmdin
 
  TCP_proxy_buffer_high:
