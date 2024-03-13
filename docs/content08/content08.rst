@@ -13,6 +13,7 @@
 
   - https://clouddocs.f5.com/bigip-next/latest/support/schema-reference.html
 
+|
 テンプレートの実態は以下例のようなJSON/YAML形式のコードです。
 
 .. figure:: images/c8-1.png
