@@ -59,17 +59,17 @@ TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定しま
 
 .. code-block:: cmdin
 
-    　　 TCP_proxy_buffer_high:
-          　　     title: Proxy Buffer High
-              　　 description: Proxy Buffer High
-    　　           type: integer
-     　　          minimum: 0
-          　　     default: 65535
-              　　 dependencies: { enable_TCP_Profile: true }
-              　　 uiMetaCM:
-                　　 order: 62
-                　　 column: 3
-                　　 columnName: Protocols & Profiles
+ TCP_proxy_buffer_high:
+          title: Proxy Buffer High
+          description: Proxy Buffer High
+          type: integer
+          minimum: 0
+          default: 65535
+          dependencies: { enable_TCP_Profile: true }
+          uiMetaCM:
+            order: 62
+            column: 3
+            columnName: Protocols & Profiles
 
 
 |
