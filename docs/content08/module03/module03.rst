@@ -15,4 +15,45 @@ TCP Profileをカスタマイズし、設定項目を追加します。
    :scale: 50%
    :align: center
 
+|
+”Protocols & Profiles”のEditマークをクリックします。
+
+.. figure:: images/c8-m3-2.png
+   :scale: 50%
+   :align: center
+
+|
+”Enable TCP Profile”を有効にすると、TCP Idle Timeout値のみ設定オプションとして見えます。
+
+.. figure:: images/c8-m3-3.png
+   :scale: 50%
+   :align: center
+
+|
+テンプレートの中身も見ていきます。作成した”clone_http”をクリックします。
+
+.. figure:: images/c8-m3-4.png
+   :scale: 50%
+   :align: center
+
+|
+Template Bodyを確認すると、TCP Profileにdependした”TCP_idle_timeout”のParameterが含まれています。
+
+.. figure:: images/c8-m3-5.png
+   :scale: 50%
+   :align: center
+
+
+|
+TCPパラメーターの追加
+--------------------------------------
+
+TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定します。
+
+.. figure:: images/c8-m3-6.png
+   :scale: 50%
+   :align: center
+
+|
+上記該当箇所に、以下テキストをコピーペーストして挿入してください。
 
