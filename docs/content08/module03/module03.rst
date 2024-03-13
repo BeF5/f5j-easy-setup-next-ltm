@@ -78,12 +78,25 @@ TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定しま
 変更後のテンプレート確認
 --------------------------------------
 
-My Application Servicesから“+Add Application”をクリックします。
+Template Body変更・Save後に、変更内容がテンプレートに反映されているか確認します。
+"My Application Services"から“+Add Application”をクリックします。
 
 .. figure:: images/c8-m3-7.png
    :scale: 50%
    :align: center
 
+- Application Service Name:
+   - **http-tcp-buffer**
+- What kind of Application:
+   - **From Template**　を選択
+- **”Select Template”** をクリック
+
+|
+作成、編集した”clone_http”を選択し、”Start Creating”をクリックします。
+
+.. figure:: images/c8-m3-8.png
+   :scale: 40%
+   :align: center
 
 
 
