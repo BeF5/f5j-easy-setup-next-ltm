@@ -7,6 +7,6 @@ iRule作成とバージョニング
 
 - iRulesの文法詳細に関しては、こちらのページをご参照下さい。https://clouddocs.f5.com/api/irules/
 
-- 本ラボではiRules機能を使って、簡易的に以下のiRuleを設定します。
-   **「HTTPリクエストの特定のURI path(/test)の場合、任意のコンテンツを返す」**
+- 本ラボではiRules機能を使って、 **「HTTPリクエストの特定のURI path(/test)の場合、任意のコンテンツを返す」** という内容のiRuleを設定します。
+  
   そのあとでiRuleから返すコンテンツの内容を変更し、iRuleバージョン管理とロールバック操作を確認します。
