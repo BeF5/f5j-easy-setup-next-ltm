@@ -62,3 +62,21 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 - Name:
    - **irule-test**
 - 上記赤枠のフィールドに前ページのiRuleをコピーペーストし、 **”Save”** をクリック
+
+
+|
+アプリケーションへの適用
+--------------------------------------
+
+My Application Servicesから作成済みの”HTTP-Service”をクリックします。
+
+.. figure:: images/c9-m1-4.png
+   :scale: 50%
+   :align: center
+
+
+次画面右上の”Edit”をクリックします。
+
+.. figure:: images/c9-m1-5.png
+   :scale: 30%
+   :align: center
