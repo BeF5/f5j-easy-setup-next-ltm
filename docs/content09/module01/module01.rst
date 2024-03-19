@@ -45,9 +45,9 @@ when HTTP_REQUEST {
 　   }
 }
 
-
 |
-- 作成するiRuleのスクリプト内容
+
+作成するiRuleのスクリプト内容
 
   - HTTP Requestイベント時
   - IP情報をXFFヘッダに挿入
