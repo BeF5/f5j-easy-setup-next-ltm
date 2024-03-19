@@ -106,7 +106,7 @@ iRuleの"Edit"ボタンをクリックします。
    :scale: 50%
    :align: center
 
-元画面で **"Save"** をクリックし、　＊＊”Review & Deploy"** をクリックします。
+元画面で **"Save"** をクリックし、　**”Review & Deploy"** をクリックします。
 
 
 |
