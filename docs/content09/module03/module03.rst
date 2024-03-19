@@ -50,3 +50,47 @@ v3ルールとして充て直し
    :scale: 50%
    :align: center
 
+
+|
+アプリケーションへv3 iRuleを適用し直します。
+My Application Servicesから作成済みの”HTTP-Service”をクリックします。
+
+.. figure:: images/c9-m3-5.png
+   :scale: 60%
+   :align: center
+
+
+|
+次画面右上の”Edit”をクリックします。
+
+.. figure:: images/c9-m3-6.png
+   :scale: 50%
+   :align: center
+
+
+|
+iRuleの"Edit"ボタンをクリックします。
+
+.. figure:: images/c9-m3-7.png
+   :scale: 50%
+   :align: center
+
+
+|
+Versionのドロップダウンメニューから“v3”を選択し、”Save”、”Review & Deploy”をクリックします。
+次ページの"Deploy Changes", "Yes, Deploy"まで実行します。
+
+.. figure:: images/c9-m3-8.png
+   :scale: 50%
+   :align: center
+
+
+|
+クライアントからサーバへの通信確認を行います。 Windows clientのブラウザから
+ **http://10.1.10.100/test**　のURLへアクセスを試行します。
+
+.. figure:: images/c9-m3-9.png
+   :scale: 50%
+   :align: center
+
+"Test Page" の画面が表示されると、旧バージョンiRuleの"v3"からコンテンツを返しています。
