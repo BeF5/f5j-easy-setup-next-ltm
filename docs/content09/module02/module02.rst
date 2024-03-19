@@ -26,7 +26,7 @@ iRuleの変更
 HTMLコンテンツ内容を、"Test Page"から **"Test Page 2"** へと編集します。
 
 .. figure:: images/c9-m2-3.png
-   :scale: 50%
+   :scale: 45%
    :align: center
 
 編集後、 **”Commit Changes”** をクリックします。
@@ -68,14 +68,6 @@ Properties画面の上部ドロップダウンから **"v2"** を選択し、 **
 
 .. figure:: images/c9-m2-7.png
    :scale: 50%
-   :align: center
-
-
-|
-次の確認画面で **"Deploy Changes"** をクリックし、 **"Yes, Continue"** をクリックします。
-
-.. figure:: images/c9-m2-8.png
-   :scale: 40%
    :align: center
 
 
