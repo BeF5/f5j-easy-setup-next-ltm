@@ -126,7 +126,7 @@ iRuleの"Edit"ボタンをクリックします。
 
 |
 クライアントからサーバへの通信確認を行います。 Windows clientのブラウザから
- **http://10.1.20.200/test**　のURLへアクセスを試行します。
+ **http://10.1.10.100/test**　のURLへアクセスを試行します。
 
 .. figure:: images/c9-m1-11.png
    :scale: 50%
