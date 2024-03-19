@@ -25,8 +25,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 次のiRuleスクリプトを、iRule設定画面にコピー＆ペーストします。
 
 
-.. code-block:: cmdin　
-
+.. code-block:: cmdin
 when HTTP_REQUEST {
    log local0. "path: [HTTP::uri]"
    HTTP::header insert X-Forwarded-For [IP::remote_addr]  #IP情報をXFFヘッダに挿入
