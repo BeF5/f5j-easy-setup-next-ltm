@@ -133,5 +133,5 @@ iRuleの"Edit"ボタンをクリックします。
    :scale: 50%
    :align: center
 
-"Test Page" の画面が表示されれば、iRuleによりコンテンツをレスポンスしていることになります。
+"Test Page" の画面が表示されると、iRuleからコンテンツを返しています。
 
