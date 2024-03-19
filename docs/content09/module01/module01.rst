@@ -47,7 +47,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 
 |
 
-作成するiRuleのスクリプト内容
+- 作成するiRuleのスクリプト内容
 
   - HTTP Requestイベント時
   - IP情報をXFFヘッダに挿入
@@ -56,7 +56,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 
 |
 .. figure:: images/c9-m1-3.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 - Name:
@@ -71,7 +71,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 My Application Servicesから作成済みの”HTTP-Service”をクリックします。
 
 .. figure:: images/c9-m1-4.png
-   :scale: 50%
+   :scale: 60%
    :align: center
 
 
@@ -79,7 +79,7 @@ My Application Servicesから作成済みの”HTTP-Service”をクリックし
 次画面右上の”Edit”をクリックします。
 
 .. figure:: images/c9-m1-5.png
-   :scale: 30%
+   :scale: 50%
    :align: center
 
 
