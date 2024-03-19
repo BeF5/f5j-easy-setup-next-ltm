@@ -92,7 +92,7 @@ iRuleの"Edit"ボタンをクリックします。
 
 
 |
-“Use iRules”のトグルをEnableにし、次画面の”Add”をクリックします。
+“Use iRules”のトグルをEnableにし、”Add”をクリックします。
 
 .. figure:: images/c9-m1-7.png
    :scale: 50%
@@ -106,5 +106,31 @@ iRuleの"Edit"ボタンをクリックします。
    :scale: 50%
    :align: center
 
+元画面で **"Save"** をクリックし、　＊＊”Review & Deploy"** をクリックします。
 
+
+|
+次のDeploy画面で、 **"Deploy Changes"** をクリックします。
+
+.. figure:: images/c9-m1-9.png
+   :scale: 50%
+   :align: center
+
+|
+ **"Yes, Deploy"** をクリックします。
+
+.. figure:: images/c9-m1-10.png
+   :scale: 50%
+   :align: center
+
+
+|
+クライアントからサーバへの通信確認を行います。 Windows clientのブラウザから
+ ** http://10.1.20.200/test **　のURLへアクセスを試行します。
+
+.. figure:: images/c9-m1-11.png
+   :scale: 50%
+   :align: center
+
+"Test Page" の画面が表示されれば、iRuleによりコンテンツをレスポンスしていることになります。
 
