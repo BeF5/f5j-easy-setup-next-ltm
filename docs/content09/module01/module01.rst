@@ -75,8 +75,36 @@ My Application Servicesから作成済みの”HTTP-Service”をクリックし
    :align: center
 
 
+|
 次画面右上の”Edit”をクリックします。
 
 .. figure:: images/c9-m1-5.png
    :scale: 30%
    :align: center
+
+
+|
+iRuleの"Edit"ボタンをクリックします。
+
+.. figure:: images/c9-m1-6.png
+   :scale: 50%
+   :align: center
+
+
+|
+“Use iRules”のトグルをEnableにし、次画面の”Add”をクリックします。
+
+.. figure:: images/c9-m1-7.png
+   :scale: 50%
+   :align: center
+
+
+|
+作成した”irule-test”のチェックボックスをクリックし”Add”をクリックします。
+
+.. figure:: images/c9-m1-8.png
+   :scale: 50%
+   :align: center
+
+
+
