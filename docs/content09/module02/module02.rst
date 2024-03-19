@@ -94,3 +94,13 @@ iRule画面で、次のように新旧バージョンの差分比較が可能で
    :scale: 40%
    :align: center
 
+
+|
+クライアントからサーバへの通信確認を行います。 Windows clientのブラウザから
+ **http://10.1.10.100/test**　のURLへアクセスを試行します。
+
+.. figure:: images/c9-m2-10.png
+   :scale: 50%
+   :align: center
+
+"Test Page 2" の画面が表示されれば、iRuleによりコンテンツをレスポンスしていることになります。
