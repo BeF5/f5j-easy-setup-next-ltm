@@ -27,7 +27,6 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 .. code-block:: cmdin
 
 when HTTP_REQUEST {
-    #log local0. "hello world"
     #log local0. "path: [HTTP::uri]"
     HTTP::header insert X-Forwarded-For [IP::remote_addr]
     if { [HTTP::uri] eq "/test"} {
@@ -44,6 +43,7 @@ when HTTP_REQUEST {
         }
     }
 }
+
 
 |
 - 作成するiRuleのスクリプト内容
