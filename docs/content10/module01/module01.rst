@@ -7,7 +7,7 @@ TMOSバックアップファイル(UCS)の準備
 次のNW構成図のように稼働中のClassic BIG-IP(TMOS)が存在し、そこからBIG-IP Next#1へ移行するシナリオを想定しています。
 
 .. figure:: images/c10-m1-1.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 
