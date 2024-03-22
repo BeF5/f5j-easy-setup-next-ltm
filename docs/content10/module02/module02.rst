@@ -32,7 +32,24 @@ CMへアップロードするUCSファイルを選択します。
    :align: center
 
 - 赤枠部分をクリックし、UCSファイルを選択します。
-- **“Group by IP Addrss”** を選択
+- **“Group by IP Addresses”** を選択
 - **"Next"** をクリック
 
 
+|
+**Add Application** をクリックします。
+
+.. figure:: images/c10-m2-5.png
+   :scale: 50%
+   :align: center
+
+
+|
+インポートされたApplicationのリストが確認できます。“Group by IP Addresses”を選択したため、同一IPで複数Portのものが同一Applicationにソートされて表示されています。
+
+.. figure:: images/c10-m2-6.png
+   :scale: 50%
+   :align: center
+
+
+|
