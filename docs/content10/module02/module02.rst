@@ -65,7 +65,7 @@ CMへアップロードするUCSファイルを選択します。
 それぞれのアプリケーションの移行可否のアセスメント結果が確認できます。（参考）
 
 .. figure:: images/c10-m2-7.png
-   :scale: 20%
+   :scale: 40%
    :align: center
 
 .. figure:: images/c10-m2-8.png
