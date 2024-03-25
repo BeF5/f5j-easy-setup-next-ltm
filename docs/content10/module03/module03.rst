@@ -47,7 +47,7 @@ My Application Servicesを見ると、Draftとして(instanceへの割り当て�
 （参考）実運用では、通信切り替え前にアドレス重複を避けるために、既存TMOSのVirtual Serverを先にDisableします。
 
 .. figure:: images/c10-m3-6.png
-   :scale: 40%
+   :scale: 35%
    :align: center
 
 
@@ -75,7 +75,7 @@ DeployするApplication **"application_3"** をクリックします。
    :align: center
 
 - Select Deploy Location:
-  - **"10.1.1.7"**
+   - **"10.1.1.7"**
 - **“Yes, Deploy”** をクリック
 
 
