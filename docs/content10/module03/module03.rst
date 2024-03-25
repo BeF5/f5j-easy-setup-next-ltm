@@ -80,7 +80,7 @@ DeployするApplication **"application_3"** をクリックします。
 
 
 |
-Instance/Locationsが "1"と表示されるようになり、1インスタンスへデプロイされています。
+Instance/Locationsが "1"と表示されるようになり、1インスタンスへデプロイされていることを示しています。
 
 .. figure:: images/c10-m3-10.png
    :scale: 50%
