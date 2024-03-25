@@ -43,3 +43,9 @@ My Application Servicesを見ると、Draftとして(instanceへの割り当て�
    :align: center
 
 
+|
+（参考）実運用では、通信切り替え前にアドレス重複を避けるために、既存TMOSのVirtual Serverを先にDisableします。
+
+.. figure:: images/c10-m3-6.png
+   :scale: 50%
+   :align: center
