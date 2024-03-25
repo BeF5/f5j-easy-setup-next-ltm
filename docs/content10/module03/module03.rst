@@ -20,7 +20,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 
 
 |
-“Shared Objects”(iRule、証明書等の共通項目)の　**"import"** をクリックしてCMに取り込んだ後、 **”Deploy”** をクリックします。
+“Shared Objects”(iRule、証明書等の共通項目)の **"import"** をクリックしてCMに取り込んだ後、 **”Deploy”** をクリックします。
 
 .. figure:: images/c10-m3-3.png
    :scale: 40%
