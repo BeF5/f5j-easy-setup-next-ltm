@@ -1,6 +1,14 @@
 Central ManagerへUCSファイルをインポート
 ======================================
 
+前ページ手順で取得済みのUCSファイルは、Windows clientのデスクトップ上のフォルダに格納されています。
+**デスクトップ>handsonフォルダ>UCS>big-ip-ucs**
+
+.. note::
+
+Windows client上のブラウザからCMへアクセスするか、ファイルを自身のPCへコピーしてから次の手順へ進んでください。
+
+
 **"Application Templates"** 画面を開き、
 My Application Servicesの画面から **”+ Add Application”** をクリックし、次画面で **”New Migration”** を選択します。
 
