@@ -69,5 +69,5 @@ CMへアップロードするUCSファイルを選択します。
    :align: center
 
 .. figure:: images/c10-m2-8.png
-   :scale: 50%
+   :scale: 40%
    :align: center
