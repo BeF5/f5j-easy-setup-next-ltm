@@ -49,3 +49,35 @@ My Application Servicesを見ると、Draftとして(instanceへの割り当て�
 .. figure:: images/c10-m3-6.png
    :scale: 50%
    :align: center
+
+
+|
+DeployするApplication **"application_3"** をクリックします。
+
+.. figure:: images/c10-m3-7.png
+   :scale: 50%
+   :align: center
+
+
+|
+**“Save & Deploy”** をクリックします。
+
+.. figure:: images/c10-m3-8.png
+   :scale: 50%
+   :align: center
+
+
+|
+アプリケーションをデプロイするNextインスタンスを選択します。
+
+.. figure:: images/c10-m3-9.png
+   :scale: 50%
+   :align: center
+
+- Select Deploy Location:
+  - **"10.1.1.7"**
+- **“Yes, Deploy”** をクリック
+
+
+
+
