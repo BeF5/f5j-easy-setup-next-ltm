@@ -71,27 +71,3 @@ CMへアップロードするUCSファイルを選択します。
 .. figure:: images/c10-m2-8.png
    :scale: 50%
    :align: center
-
-
-|
-ステータスがグリーンのApplicationを選択して **"Add"** をクリックします。
-
-.. figure:: images/c10-m2-9.png
-   :scale: 40%
-   :align: center
-
-
-|
-**"Next"** をクリックします。
-
-.. figure:: images/c10-m2-10.png
-   :scale: 40%
-   :align: center
-
-
-|
-“Shared Objects”(iRule、証明書等の共通項目)の　**"import"** をクリックしてCMに取り込んだ後、 **”Deploy”** をクリックします。
-
-.. figure:: images/c10-m2-11.png
-   :scale: 40%
-   :align: center
