@@ -95,4 +95,11 @@ HA Propertiesを設定します。
 - Data Plane Primary Address:
    - **10.1.30.7/24**
 
+*Standby Node*
+
+- Control Plane Address:
+   - **10.1.1.88/24**
+- Data Plane Primary Address:
+   - **10.1.30.8/24**
+
 - **”Next”** をクリック
