@@ -75,3 +75,23 @@ VLANの設定情報を入力します。
 - **”Done”** をクリック
 - 次画面の **”Next”** をクリック
 
+
+|
+HA Propertiesを設定します。
+
+.. figure:: images/c11-m2-8.png
+   :scale: 50%
+   :align: center
+
+- HA Name:
+   - **ha1**
+- HA Management(Floating) IP Address:
+   - **10.1.1.9**
+
+$$Active Node$$
+- Control Plane Address:
+   - **10.1.1.77/24**
+- Data Plane Primary Address:
+   - **10.1.30.7/24**
+
+- **”Next”** をクリック
