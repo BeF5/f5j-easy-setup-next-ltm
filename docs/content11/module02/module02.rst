@@ -80,7 +80,7 @@ VLANの設定情報を入力します。
 HA Propertiesを設定します。
 
 .. figure:: images/c11-m2-8.png
-   :scale: 50%
+   :scale: 65%
    :align: center
 
 - HA Name:
