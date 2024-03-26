@@ -58,8 +58,6 @@ BIG-IP Next CMからNextインスタンスを管理するためのCredentialを�
    :scale: 50%
    :align: center
 
-- **"Add"** をクリック
-
 
 |
 BIG-IP Nextインスタンス#2(10.1.1.8)が追加されたことを確認します。
