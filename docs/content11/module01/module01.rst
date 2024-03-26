@@ -65,7 +65,7 @@ BIG-IP Next CMからNextインスタンスを管理するためのCredentialを�
 BIG-IP Nextインスタンス#2(10.1.1.8)が追加されたことを確認します。
 
 .. figure:: images/c11-m1-6.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 
