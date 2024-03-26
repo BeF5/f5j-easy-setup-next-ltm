@@ -3,7 +3,7 @@ Central ManagerへUCSファイルをインポート
 
 前ページ手順で取得済みのUCSファイルは、Windows clientのデスクトップ上のフォルダに格納されています。
 
-**デスクトップ>handsonフォルダ>UCS>big-ip-ucs**
+**デスクトップ > Handson Files > Backup UCS > udf-tmos-bigip.ucs**
 
 .. note::
 
