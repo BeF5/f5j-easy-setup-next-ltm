@@ -53,3 +53,25 @@ VLANの設定情報を入力します。
 - **”Done”** をクリック
 
 
+|
+**HA Data Plane VLAN** を設定します。
+Data Plane VLAN新規作成のための **”Create VLAN”** をクリックします。
+
+.. figure:: images/c11-m2-6.png
+   :scale: 50%
+   :align: center
+
+|
+VLANの設定情報を入力します。
+
+.. figure:: images/c11-m2-7.png
+   :scale: 50%
+   :align: center
+
+- Name:
+   - **data-plane-vlan**
+- Network Interface:
+   - **1.3**
+- **”Done”** をクリック
+- 次画面の **”Next”** をクリック
+
