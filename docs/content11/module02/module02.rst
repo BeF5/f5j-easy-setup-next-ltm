@@ -101,6 +101,5 @@ HA Propertiesを設定します。
    - **10.1.1.88/24**
 - Data Plane Primary Address:
    - **10.1.30.8/24**
-
 |
 - **”Next”** をクリック
