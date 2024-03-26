@@ -88,8 +88,7 @@ HA Propertiesを設定します。
 - HA Management(Floating) IP Address:
    - **10.1.1.9**
 
-<ins>Active Node</ins>
-
+*Active Node*
 - Control Plane Address:
    - **10.1.1.77/24**
 - Data Plane Primary Address:
