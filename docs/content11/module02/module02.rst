@@ -29,4 +29,25 @@ HA Active機とするBIG-IP Nextインスタンス#1(10.1.1.7)のMode “Standal
 - **”Next”** をクリック
 
 
+|
+**HA Control Plane VLAN** を設定します。
+Control Plane VLAN新規作成のための **”Create VLAN”** をクリックします。
+
+.. figure:: images/c11-m2-4.png
+   :scale: 50%
+   :align: center
+
+|
+VLANの設定情報を入力します。
+
+.. figure:: images/c11-m2-5.png
+   :scale: 50%
+   :align: center
+
+- Name:
+   - **control-plane-vlan**
+- Tag:
+   - **3999**
+- **”Done”** をクリック
+
 
