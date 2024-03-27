@@ -16,7 +16,7 @@ CLIコマンドでBackupを実行します。
 
 .. code-block:: cmdin
 
-　　　/opt/cm-bundle/cm backup
+/opt/cm-bundle/cm backup
 
 .. figure:: images/c13-m1-3.png
    :scale: 50%
