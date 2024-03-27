@@ -16,10 +16,10 @@ CLIコマンドでBackupを実行します。
 
 .. code-block:: cmdin
 
-cd /opt/cm-bundle/cm 
-backup
+ cd /opt/cm-bundle/cm 
+ backup
 
-Encryption password: bakup123
+ Encryption password: bakup123
 
 
 .. figure:: images/c13-m1-3.png
