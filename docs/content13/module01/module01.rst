@@ -19,7 +19,8 @@ CLIコマンドでBackupを実行します。
  cd /opt/cm-bundle/cm 
  backup
 
- Encryption password: bakup123
+ Encryption password: backup123
+ Reenter encryption password: backup123
 
 
 .. figure:: images/c13-m1-3.png
