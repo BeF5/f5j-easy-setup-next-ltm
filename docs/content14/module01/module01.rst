@@ -36,7 +36,7 @@ QKView取得の設定
 My instancesから、Qkviewを取得するBIG-IP Nextインスタンスを選択します。
 
 .. figure:: images/c14-m1-4.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 
@@ -79,5 +79,5 @@ iHealthで確認
 iHealthにログインし、Qkviewファイルがアップロードされていることを確認します。
 
 .. figure:: images/c14-m1-9.png
-   :scale: 30%
+   :scale: 35%
    :align: center
