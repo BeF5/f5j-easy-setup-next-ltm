@@ -32,4 +32,4 @@ CLIコマンドでBackupを実行します。
 
 .. code-block:: cmdin
 
-　info: Backup bundle created at /opt/cm-backup/backup.20240122-061327.tgz.enc 
+ info: Backup bundle created at /opt/cm-backup/backup.20240122-061327.tgz.enc 
