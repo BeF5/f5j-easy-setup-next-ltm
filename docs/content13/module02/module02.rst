@@ -12,3 +12,41 @@ Central Managerのリストア
 .. figure:: images/c13-m2-1.png
    :scale: 50%
    :align: center
+
+
+|
+リストアする前に、CMの設定を変更を試してみます。
+My Applicationsから、"application_1"などを適当に削除しておきます。アプリケーションを選択し、右上のActionsから"Delete"をクリックします。
+
+.. figure:: images/c13-m2-2.png
+   :scale: 50%
+   :align: center
+
+CMからログアウトしてブラウザを閉じます。（オンラインユーザがいると、リストア作業が途中で止まってしまうため）
+
+|
+CLIセッションでリストアコマンドを実行し、設定を復元します。
+
+.. code-block:: cmdin
+
+　　/opt/cm-bundle/cm restore /home/admin/ backup.20240122-061327.tgz.enc 
+
+
+リストア完了のメッセージを確認します。
+
+.. code-block:: cmdin
+
+　　info: Restore completed successfully.
+
+
+
+|
+CMのMy Applicationsのリストに、削除したアプリケーションが復元されていることを確認します。
+
+.. figure:: images/c13-m2-3.png
+   :scale: 50%
+   :align: center
+
+
+
+
