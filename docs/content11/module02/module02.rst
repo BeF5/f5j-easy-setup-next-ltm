@@ -43,7 +43,7 @@ Control Plane VLAN新規作成のための **”Create VLAN”** をクリック
 VLANの設定情報を入力します。
 
 .. figure:: images/c11-m2-5.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 - Name:
@@ -65,7 +65,7 @@ Data Plane VLAN新規作成のための **”Create VLAN”** をクリックし
 VLANの設定情報を入力します。
 
 .. figure:: images/c11-m2-7.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 - Name:
