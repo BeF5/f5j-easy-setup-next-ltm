@@ -84,7 +84,7 @@ HA Propertiesを設定します。
    :align: center
 
 - HA Name:
-   - **ha1**
+   - **bigha.f5lab.local**
 - HA Management(Floating) IP Address:
    - **10.1.1.9**
 
@@ -129,7 +129,7 @@ internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定�
 
 
 |
-つづいて、**"external-vlan"** をクリックします。
+つづいて、 **"external-vlan"** をクリックします。
 
 .. figure:: images/c11-m2-11.png
    :scale: 50%
@@ -147,3 +147,23 @@ internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定�
    - **10.1.10.8/24 , Standby Node IP Address**
    - **10.1.10.9/24 , Floating IP Address**
 - **”Save”** をクリック
+
+
+|
+サマリー画面を確認し、　**"Deploy to HA"** をクリックし、つづいて表示される　**"Yes, Deploy"**　をクリックします。
+
+.. figure:: images/c11-m2-13.png
+   :scale: 50%
+   :align: center
+
+
+|
+デプロイ後、My InstancesのリストにHAクラスタとして表示されます。　ModeのHAをクリックすると、HAの設定状態が確認できます。
+
+.. figure:: images/c11-m2-14.png
+   :scale: 50%
+   :align: center
+
+.. figure:: images/c11-m2-15.png
+   :scale: 50%
+   :align: center
