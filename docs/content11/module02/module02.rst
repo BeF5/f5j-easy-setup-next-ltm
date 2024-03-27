@@ -108,7 +108,7 @@ HA Propertiesを設定します。
 |
 internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定します。
 
-"internal-vlan"をクリックします。
+**"internal-vlan"** をクリックします。
 
 .. figure:: images/c11-m2-9.png
    :scale: 50%
@@ -125,4 +125,25 @@ internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定�
    - **10.1.20.7/24 , Active Node IP Address**
    - **10.1.20.8/24 , Standby Node IP Address**
    - **10.1.20.9/24 , Floating IP Address**
+- **”Save”** をクリック
 
+
+|
+つづいて、**"external-vlan"** をクリックします。
+
+.. figure:: images/c11-m2-11.png
+   :scale: 50%
+   :align: center
+
+|
+“+”をクリックして３行に増やし、Active/Standby/FloatingのIPをそれぞれ設定します。
+
+.. figure:: images/c11-m2-12.png
+   :scale: 50%
+   :align: center
+
+- CIDR Address , HA Details:
+   - **10.1.10.7/24 , Active Node IP Address**
+   - **10.1.10.8/24 , Standby Node IP Address**
+   - **10.1.10.9/24 , Floating IP Address**
+- **”Save”** をクリック
