@@ -1,4 +1,4 @@
-Central Managerへのインスタンス#2の登録
+Central Managerへインスタンス#2の登録
 ======================================
 
 UDF上で”BIG-IP Next instance 2” はすでに稼働中で、interface/vlan/ipのセットアップは４章の手順で実施済みの前提とします。
