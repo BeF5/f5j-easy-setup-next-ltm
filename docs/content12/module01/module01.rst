@@ -48,7 +48,7 @@ Backup & Restore画面の“View Schedules”をクリックすると、スケ�
 スケジュール日時を経過すると、バックアップファイルが作成され表示されます。
 
 .. figure:: images/c12-m1-5.png
-   :scale: 50%
+   :scale: 40%
    :align: center
 
 
