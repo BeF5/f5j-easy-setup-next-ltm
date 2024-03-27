@@ -17,7 +17,6 @@ CLIコマンドでBackupを実行します。
 .. code-block:: cmdin
 
  /opt/cm-bundle/cm backup
- backup
 
  Encryption password: backup123
  Reenter encryption password: backup123
