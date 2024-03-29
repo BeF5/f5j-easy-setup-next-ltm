@@ -33,6 +33,6 @@ Windows Clientへのログイン
 デスクトップ上のChromeブラウザを開き、ブックマックバーから **https://10.1.10.100/** をクリックして作成したアプリケーションのVirtual Server IPへアクセスします。
 下記のようなWebコンテンツが表示されれば通信確認完了です。何度かリロードを繰り返すと、2台のWebサーバからそれぞれ異なるコンテンツが返ってくることが確認できます。
 
-.. figure:: images/c6-m2-3.png
+.. figure:: images/c7-m2-3.png
    :scale: 50%
    :align: center
