@@ -53,6 +53,8 @@ Application Service Propertiesの設定画面で、Virtual Server、Pool、Proto
 |
 Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
+右の **"+ Create"** をクリックします。
+
 .. figure:: images/c6-m1-6.png
    :scale: 35%
    :align: center
