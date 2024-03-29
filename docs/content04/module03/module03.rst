@@ -41,7 +41,7 @@ Instance1 初期設定コマンドの実行
 - Data-Plane Interface: 
    - **1.1 (Enter)**
 - Please enter a new password ここでadminのパスワード変更を実施: 
-   - **Welcome123! (任意のパスワードでOK)**
+   - **Welcome123!**
 - Summaryを確認してy(yes)でEnter
 
 
@@ -82,5 +82,5 @@ Instance2 初期設定コマンドの実行
 - Data-Plane Interface: 
    - **1.1 (Enter)**
 - Please enter a new password ここでadminのパスワード変更を実施: 
-   - **Welcome123! (任意のパスワードでOK)**
+   - **Welcome123!**
 - Summaryを確認してy(yes)でEnter
