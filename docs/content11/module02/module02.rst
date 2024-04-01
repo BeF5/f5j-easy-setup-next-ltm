@@ -177,5 +177,5 @@ internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定�
    :align: center
 
 .. figure:: images/c11-m2-15.png
-   :scale: 50%
+   :scale: 65%
    :align: center
