@@ -32,7 +32,7 @@ Windows10 client
 ”Applications”から”Certificates&Keys”を選択し、”Add Certificates”をクリックします。
 
 .. figure:: images/c7-m1-2.png
-   :scale: 50%
+   :scale: 70%
    :align: center
 
 
