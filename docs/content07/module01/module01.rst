@@ -32,7 +32,7 @@ Windows10 client
 ”Applications”から”Certificates&Keys”を選択し、”Add Certificates”をクリックします。
 
 .. figure:: images/c7-m1-2.png
-   :scale: 70%
+   :scale: 50%
    :align: center
 
 
@@ -40,7 +40,7 @@ Windows10 client
 インポートする証明書の指定、選択を行います。
 
 .. figure:: images/c7-m1-3.png
-   :scale: 50%
+   :scale: 70%
    :align: center
 
 - **import a Certificate** を選択
