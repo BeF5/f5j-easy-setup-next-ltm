@@ -40,7 +40,7 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
    :align: center
 
 - Application Template:
-   - **HTTPS-Load-Balancing-Service**
+   - **HTTPS-Load-Balancing-Service** を選択
 - **“Start Creating”** をクリック
 
 
