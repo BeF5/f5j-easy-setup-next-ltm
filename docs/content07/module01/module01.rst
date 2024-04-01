@@ -1,22 +1,50 @@
-HTTPSアプリケーションの設定
+証明書のインポート
 ======================================
 
-HTTPS Serviceテンプレートを利用したWebアプリケーションの作成
+認証局で署名されたサーバ証明書をインポートして利用する方法を記載します。
+
+サーバ証明書の準備
 --------------------------------------
 
-CM画面左上部のworkspaceから、”Applications”を選択します。
+一般的には、BIG-IPのGUIでCSRと秘密鍵を生成し、CSRを認証局 (例:ベリサイン等)に送付します。
+そのCSRに対して、認証局が署名を行うことでサーバ証明書が完成します。そのサーバ証明書を返送してもらい、インポートします。
+本ガイドでは簡易的に、秘密鍵ファイルとサーバ証明書の両方がすでに存在しているものとし、両方をインポートする手順とします。
+
+.. note::
+   F5 UDFラボでは、リモートデスクトップ接続したPCのデスクトップ上に準備してある証明書を使用します。
+
+Windows10 client 
+デスクトップ > Handson Files > SSL_certs > udf-tmos-bigip.ucs
 
 .. figure:: images/c7-m1-1.png
    :scale: 50%
    :align: center
 
+このフォルダ内の以下2つのファイルを使用します。
+
+秘密鍵ファイル: abcCompany-key.pem
+サーバ証明書ファイル: abcCompany-cert.pem
 
 |
-**”+Add Application”** をクリックします。
+秘密鍵とサーバ証明書のインポート
+--------------------------------------
+
+”Applications”から”Certificates&Keys”を選択し、”Add Certificates”をクリックします。
 
 .. figure:: images/c7-m1-2.png
    :scale: 50%
    :align: center
+
+
+|
+インポートする証明書の指定、選択を行います。
+
+.. figure:: images/c7-m1-3.png
+   :scale: 50%
+   :align: center
+
+- Application Service Name:
+   - **HTTPS-Service**　（任意の名前）
 
 |
 新規アプリケーション作成を開始するにあたりアプリケーション名とテンプレート選択をおこないます。
@@ -25,127 +53,28 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
    :scale: 50%
    :align: center
 
-- Application Service Name:
-   - **HTTPS-Service**　（任意の名前）
-- What kind of Application:
-   - **From Template**　を選択
-- **“Select Template”** をクリック
-
+- **import a Certificate** を選択
+- Name:
+   - **Create New**　を選択
+   - **abcCompany**
+- Tag:
+   - **Traffic**
+- Type:
+   - **Certificate & Key**
+- Source:
+   - **Import**
+- Certificate:
+   - **import (abcCompany-cert.pemファイルを選択)**
+- Key:
+   - **import (abcCompany-key.pemファイルを選択)**
+- Key Security Type:
+   - **Normal**
+- **"Save"** をクリック
 
 |
-次画面のドロップダウンメニューからテンプレートを選択します。
+正常にインポートされると、ステータス"Active"と表示されるようになります。
 
 .. figure:: images/c7-m1-4.png
    :scale: 50%
    :align: center
 
-- Application Template:
-   - **HTTPS-Load-Balancing-Service**
-- **“Start Creating”** をクリック
-
-
-|
-Application Service Propertiesの設定画面で、Virtual Server、Pool、Protocol Profiles等の構成を定義します。
-HTTPSテンプレートのデフォルト設定値が反映済み。
-
-.. figure:: images/c7-m1-5.png
-   :scale: 40%
-   :align: center
-
-（参考）ProtocolおよびHTTPS ProfileのEditマークをクリックすると、Profileのオプション設定画面が開きます。
-
-.. figure:: images/c7-m1-6.png
-   :scale: 50%
-   :align: center
-
-|
-Virtual Serverタブで設定を入力します。
-
-- Virtual Server Name:
-   - **https_vs**
-- Pool:
-   - **my_pool**
-- **“Pools”** タブをクリック
-
-
-|
-Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
-
-.. figure:: images/c7-m1-7.png
-   :scale: 35%
-   :align: center
-
-- Pool Name:
-   - **my_pool**
-- Server Port:
-   - **80**
-- Load-Balancing Mode:
-   - **round-robin**
-- Monitor Type:
-   - **http**
-- **”Review & Deploy”** をクリック
-
-
-|
-次ページの **“Start Adding”** をクリックし、デプロイするインスタンスを選択します。
-
-.. figure:: images/c7-m1-8.png
-   :scale: 40%
-   :align: center
-
-- **“big01.f5lab.local”** のチェックボックスをチェックする
-- **“+Add to List”** をクリック
-
-
-|
-次のDeploy画面で、Virtual ServerのIPとPool memberを設定します。
-
-.. figure:: images/c7-m1-9.png
-   :scale: 35%
-   :align: center
-
-- Virtual Address:
-   - **10.1.10.100**
-- Membersの下矢印を展開し、 **“+Pool Members”** をクリック
-
-
-|
-Pool memberを設定します。
-
-.. figure:: images/c7-m1-10.png
-   :scale: 35%
-   :align: center
-
-- **“+Add Row”** を２回クリックし2member分作成
-- Pool Members:
-   - Name: **web-server1** , IP Address: **10.1.20.101**
-   - Name: **web-server2** , IP Address: **10.1.20.102**
-- 入力後、 **”Save”** をクリック
-
-
-|
-設定内容に問題ないかを適用前に検証し、本番適用します。
-
-.. figure:: images/c7-m1-11.png
-   :scale: 35%
-   :align: center
-
-- **“Validate All”** をクリックして設定内容を検証、エラーがなく”Validated”の結果が表示されること
-- **“View Results”** で設定反映されるAPI内容を確認可能です
-- **“Deploy Changes”** をクリックし、次に表示される画面で **”Yes, Deploy”** をクリックします
-
-
-|
-作成したアプリケーションがリストに表示されます。
-
-.. figure:: images/c7-m1-12.png
-   :scale: 50%
-   :align: center
-
-
-|
-作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
-
-.. figure:: images/c7-m1-13.png
-   :scale: 50%
-   :align: center
