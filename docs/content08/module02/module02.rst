@@ -96,3 +96,7 @@ Template Body変更・Save後に、変更内容がテンプレートに反映さ
 .. figure:: images/c8-m2-9.png
    :scale: 35%
    :align: center
+
+
+|
+Cancelしてダッシュボードに戻ります。
