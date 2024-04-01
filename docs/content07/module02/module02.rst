@@ -83,7 +83,7 @@ Client-Side TLS の証明書設定を行います。
 
 
 |
-Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
+Poolの設定を確認します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
 .. figure:: images/c7-m2-8.png
    :scale: 35%
