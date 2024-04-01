@@ -22,8 +22,8 @@ Windows10 client
 
 このフォルダ内の以下2つのファイルを使用します。
 
-秘密鍵ファイル: abcCompany-key.pem
-サーバ証明書ファイル: abcCompany-cert.pem
+- 秘密鍵ファイル: abcCompany-key.pem
+- サーバ証明書ファイル: abcCompany-cert.pem
 
 |
 秘密鍵とサーバ証明書のインポート
