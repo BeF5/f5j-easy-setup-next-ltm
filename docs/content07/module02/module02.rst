@@ -46,35 +46,50 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 
 |
 Application Service Propertiesの設定画面で、Virtual Server、Pool、Protocol Profiles等の構成を定義します。
-HTTPSテンプレートのデフォルト設定値が反映済み。
+HTTPSテンプレートのデフォルト設定値が反映済みの状態です。 **"Protocols & Profiles"** のEditをクリックします。
+
 
 .. figure:: images/c7-m2-5.png
    :scale: 40%
    :align: center
 
-（参考）ProtocolおよびHTTPS ProfileのEditマークをクリックすると、Profileのオプション設定画面が開きます。
+- Virtual Server Name:
+   - **https_vs**
+- Pool:
+   - **my_pool**
+- **"Protocols & Profiles"** のEditをクリック
+
+
+|
+No Client-Side TLS の **”Add”** をクリックします。
 
 .. figure:: images/c7-m2-6.png
    :scale: 50%
    :align: center
 
 |
-Virtual Serverタブで設定を入力します。
+Client-Side TLS の証明書設定を行います。
 
-- Virtual Server Name:
-   - **https_vs**
-- Pool:
-   - **my_pool**
-- **“Pools”** タブをクリック
+.. figure:: images/c7-m2-7.png
+   :scale: 50%
+   :align: center
+
+- Name:
+   - **abcCompany**
+- RSA Certificate:
+   - **abcCompany**
+- **Use Default Server** を選択
+- **Save** を２回クリックします
 
 
 |
 Poolを作成します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
-.. figure:: images/c7-m2-7.png
+.. figure:: images/c7-m2-8.png
    :scale: 35%
    :align: center
 
+- **“Pools”** タブをクリック
 - Pool Name:
    - **my_pool**
 - Server Port:
@@ -89,7 +104,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 |
 次ページの **“Start Adding”** をクリックし、デプロイするインスタンスを選択します。
 
-.. figure:: images/c7-m2-8.png
+.. figure:: images/c7-m2-9.png
    :scale: 40%
    :align: center
 
@@ -100,8 +115,8 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 |
 次のDeploy画面で、Virtual ServerのIPとPool memberを設定します。
 
-.. figure:: images/c7-m2-9.png
-   :scale: 35%
+.. figure:: images/c7-m2-10.png
+   :scale: 40%
    :align: center
 
 - Virtual Address:
@@ -112,7 +127,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 |
 Pool memberを設定します。
 
-.. figure:: images/c7-m2-10.png
+.. figure:: images/c7-m2-11.png
    :scale: 35%
    :align: center
 
@@ -126,7 +141,7 @@ Pool memberを設定します。
 |
 設定内容に問題ないかを適用前に検証し、本番適用します。
 
-.. figure:: images/c7-m2-11.png
+.. figure:: images/c7-m2-12.png
    :scale: 35%
    :align: center
 
@@ -138,7 +153,7 @@ Pool memberを設定します。
 |
 作成したアプリケーションがリストに表示されます。
 
-.. figure:: images/c7-m2-12.png
+.. figure:: images/c7-m2-13.png
    :scale: 50%
    :align: center
 
@@ -146,6 +161,6 @@ Pool memberを設定します。
 |
 作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
 
-.. figure:: images/c7-m2-13.png
+.. figure:: images/c7-m2-14.png
    :scale: 50%
    :align: center
