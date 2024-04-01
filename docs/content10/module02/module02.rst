@@ -49,7 +49,7 @@ CMへアップロードするUCSファイルを選択します。
 **Add Application** をクリックします。
 
 .. figure:: images/c10-m2-5.png
-   :scale: 50%
+   :scale: 70%
    :align: center
 
 
