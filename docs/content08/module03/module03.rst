@@ -30,6 +30,8 @@ TCP Profileをカスタマイズし、設定項目を追加します。
    :align: center
 
 |
+キャンセルしてトップに戻ります。
+
 テンプレートの中身も見ていきます。作成した”clone_http”をクリックします。
 
 .. figure:: images/c8-m3-4.png
