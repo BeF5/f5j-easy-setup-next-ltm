@@ -43,16 +43,6 @@ Windows10 client
    :scale: 50%
    :align: center
 
-- Application Service Name:
-   - **HTTPS-Service**　（任意の名前）
-
-|
-新規アプリケーション作成を開始するにあたりアプリケーション名とテンプレート選択をおこないます。
-
-.. figure:: images/c7-m1-3.png
-   :scale: 50%
-   :align: center
-
 - **import a Certificate** を選択
 - Name:
    - **Create New**　を選択
