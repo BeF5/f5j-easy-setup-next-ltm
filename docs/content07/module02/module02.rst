@@ -50,7 +50,7 @@ HTTPSテンプレートのデフォルト設定値が反映済みの状態です
 
 
 .. figure:: images/c7-m2-5.png
-   :scale: 40%
+   :scale: 50%
    :align: center
 
 - Virtual Server Name:
