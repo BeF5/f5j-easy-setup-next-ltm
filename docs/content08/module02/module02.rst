@@ -36,7 +36,7 @@ Template Bodyの中の、Monitor Typeを **”http”** から **”https”** �
 
 
 |
-default Monitor typeをhttpからhttpsへ変更
+Server-Side-TLSをdefault falseからtrueへ変更
 --------------------------------------
 
 Template Bodyの中の、Server-Side-TLSを **default false** から **true** へ変更します。
