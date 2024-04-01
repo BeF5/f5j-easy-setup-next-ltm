@@ -71,7 +71,7 @@ No Client-Side TLS の **”Add”** をクリックします。
 Client-Side TLS の証明書設定を行います。
 
 .. figure:: images/c7-m2-7.png
-   :scale: 50%
+   :scale: 60%
    :align: center
 
 - Name:
@@ -86,7 +86,7 @@ Client-Side TLS の証明書設定を行います。
 Poolの設定を確認します。　Pool memberのIPは後工程のアプリケーションDeploy時に設定します。
 
 .. figure:: images/c7-m2-8.png
-   :scale: 35%
+   :scale: 45%
    :align: center
 
 - **“Pools”** タブをクリック
@@ -105,7 +105,7 @@ Poolの設定を確認します。　Pool memberのIPは後工程のアプリケ
 次ページの **“Start Adding”** をクリックし、デプロイするインスタンスを選択します。
 
 .. figure:: images/c7-m2-9.png
-   :scale: 40%
+   :scale: 60%
    :align: center
 
 - **“big01.f5lab.local”** のチェックボックスをチェックする
@@ -116,7 +116,7 @@ Poolの設定を確認します。　Pool memberのIPは後工程のアプリケ
 次のDeploy画面で、Virtual ServerのIPとPool memberを設定します。
 
 .. figure:: images/c7-m2-10.png
-   :scale: 40%
+   :scale: 50%
    :align: center
 
 - Virtual Address:
@@ -128,7 +128,7 @@ Poolの設定を確認します。　Pool memberのIPは後工程のアプリケ
 Pool memberを設定します。
 
 .. figure:: images/c7-m2-11.png
-   :scale: 35%
+   :scale: 50%
    :align: center
 
 - **“+Add Row”** を２回クリックし2member分作成
@@ -142,7 +142,7 @@ Pool memberを設定します。
 設定内容に問題ないかを適用前に検証し、本番適用します。
 
 .. figure:: images/c7-m2-12.png
-   :scale: 35%
+   :scale: 45%
    :align: center
 
 - **“Validate All”** をクリックして設定内容を検証、エラーがなく”Validated”の結果が表示されること
