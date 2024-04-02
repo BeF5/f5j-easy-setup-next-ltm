@@ -41,6 +41,7 @@ CMへアップロードするUCSファイルを選択します。
    :align: center
 
 - 赤枠部分をクリックし、UCSファイルを選択します。
+- Master keyをDisable
 - **“Group by IP Addresses”** を選択
 - **"Next"** をクリック
 
