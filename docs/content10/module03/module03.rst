@@ -7,7 +7,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 ステータスがグリーンのApplicationを選択して **"Add"** をクリックします。
 
 .. figure:: images/c10-m3-1.png
-   :scale: 45%
+   :scale: 60%
    :align: center
 
 
@@ -15,7 +15,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 **"Next"** をクリックします。
 
 .. figure:: images/c10-m3-2.png
-   :scale: 45%
+   :scale: 60%
    :align: center
 
 
@@ -24,7 +24,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 Deploy Locationは"Save as Draft"のままとしておきます。ここで任意のNextインスタンスを選択することも可能です。
 
 .. figure:: images/c10-m3-3.png
-   :scale: 50%
+   :scale: 60%
    :align: center
 
 
