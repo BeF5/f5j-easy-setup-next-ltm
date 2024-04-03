@@ -34,7 +34,7 @@ NEXTインスタンスのCredentialを入力します。
    - **admin**
 - Password:
    - **Welcome123!**
-- **"Submit"** をクリック
+- **"Next"** をクリック
 
 
 |
