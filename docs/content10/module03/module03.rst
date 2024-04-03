@@ -69,8 +69,7 @@ DeployするApplication **"application_1"** をクリックします。
 
 
 |
-**“Start Adding”** をクリックし、 **big01.f5lab.local** を選択して **"+ Add to List"** をクリックします。
-アプリケーションをデプロイするNextインスタンスを選択します。
+アプリケーションをデプロイするNextインスタンスを選択します。 **“Start Adding”** をクリックし、 **big01.f5lab.local** を選択して **"+ Add to List"** をクリックします。
 
 .. figure:: images/c10-m3-9.png
    :scale: 50%
@@ -82,7 +81,7 @@ DeployするApplication **"application_1"** をクリックします。
 
 
 |
-Instance/Locationsが "1"と表示されるようになり、1インスタンスがデプロイされていることを示しています。
+Instance/Locationsが "1"と表示されるようになり、1インスタンスにデプロイされていることを示しています。
 
 .. figure:: images/c10-m3-10.png
    :scale: 50%
