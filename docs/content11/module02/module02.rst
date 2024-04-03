@@ -162,7 +162,7 @@ internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定�
 設定適用と確認
 --------------------------------------
 
-サマリー画面を確認し、　**"Deploy to HA"** をクリックし、つづいて表示される　**"Yes, Deploy"**　をクリックします。
+サマリー画面を確認し、 **"Deploy to HA"** をクリックし、つづいて表示される **"Yes, Deploy"** をクリックします。
 
 .. figure:: images/c11-m2-13.png
    :scale: 50%
