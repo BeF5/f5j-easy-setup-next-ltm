@@ -1,7 +1,7 @@
 Central Managerへインスタンス#2の登録
 ======================================
 
-UDF上で”BIG-IP Next instance 2” はすでに稼働中で、interface/vlan/ipのセットアップは４章の手順で実施済みの前提とします。
+UDF上で”BIG-IP Next instance 2” はすでに起動済みで、interface/vlan/ipのセットアップは４章の手順で実施済みの前提とします。
 
 |
 "My Instances"の **"+ Add"** をクリックします。
