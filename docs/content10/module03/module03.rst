@@ -7,7 +7,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 ステータスがグリーンのApplicationを選択して **"Add"** をクリックします。
 
 .. figure:: images/c10-m3-1.png
-   :scale: 50%
+   :scale: 45%
    :align: center
 
 
