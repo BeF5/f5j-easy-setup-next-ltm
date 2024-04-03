@@ -15,7 +15,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 **"Next"** をクリックします。
 
 .. figure:: images/c10-m3-2.png
-   :scale: 80%
+   :scale: 50%
    :align: center
 
 
@@ -24,7 +24,7 @@ UCSからインポートしたアプリケーションをNextインスタンス�
 Deploy Locationは"Save as Draft"のままとしておきます。ここで任意のNextインスタンスを選択することも可能です。
 
 .. figure:: images/c10-m3-3.png
-   :scale: 80%
+   :scale: 50%
    :align: center
 
 
@@ -53,7 +53,7 @@ My Application Servicesを見ると、Draftとして(instanceへの割り当て�
 
 
 |
-DeployするApplication **"application_3"** をクリックします。
+DeployするApplication **"application_1"** をクリックします。
 
 .. figure:: images/c10-m3-7.png
    :scale: 50%
@@ -61,7 +61,7 @@ DeployするApplication **"application_3"** をクリックします。
 
 
 |
-**“Save & Deploy”** をクリックします。
+**“Review & Deploy”** をクリックします。
 
 .. figure:: images/c10-m3-8.png
    :scale: 50%
@@ -69,15 +69,16 @@ DeployするApplication **"application_3"** をクリックします。
 
 
 |
+**“Start Adding”** をクリックし、 **big01.f5lab.local** を選択して **"+ Add to List"** をクリックします。
 アプリケーションをデプロイするNextインスタンスを選択します。
 
 .. figure:: images/c10-m3-9.png
    :scale: 50%
    :align: center
 
-- Select Deploy Location:
-   - **"10.1.1.7"**
-- **“Yes, Deploy”** をクリック
+- **"big01.f5lab.local(10.1.1.7)"** を選択
+- **"+ Add to List"** をクリック
+- **“Deploy”** をクリック
 
 
 |
