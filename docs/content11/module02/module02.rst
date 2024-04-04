@@ -18,7 +18,7 @@ HA Active機とするBIG-IP Nextインスタンス#1(10.1.1.7)のMode “Standal
 左メニューからHAを選択し、 **”Enable HA”** をクリックします。
 
 .. figure:: images/c11-m2-2.png
-   :scale: 60%
+   :scale: 70%
    :align: center
 
 
@@ -26,7 +26,7 @@ HA Active機とするBIG-IP Nextインスタンス#1(10.1.1.7)のMode “Standal
 ドロップダウンからStandbyノードを選択します。
 
 .. figure:: images/c11-m2-3.png
-   :scale: 50%
+   :scale: 60%
    :align: center
 
 - Available Standalone Instances:
@@ -43,7 +43,7 @@ HA用VLANの設定
 Control Plane VLAN新規作成のための **”Create VLAN”** をクリックします。
 
 .. figure:: images/c11-m2-4.png
-   :scale: 50%
+   :scale: 60%
    :align: center
 
 |
@@ -65,7 +65,7 @@ VLANの設定情報を入力します。
 Data Plane VLAN新規作成のための **”Create VLAN”** をクリックします。
 
 .. figure:: images/c11-m2-6.png
-   :scale: 50%
+   :scale: 60%
    :align: center
 
 |
