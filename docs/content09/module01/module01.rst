@@ -27,23 +27,22 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 
 .. code-block:: cmdin
 
-    when HTTP_REQUEST {
-       log local0. "path: [HTTP::uri]"
-       HTTP::header insert X-Forwarded-For [IP::remote_addr]  #IP情報をXFFヘッダに挿入
-       if { [HTTP::uri] eq "/test"} {                         #URI /test の条件文に該当する場合
-           HTTP::respond 200 content {                        #以下HTMLコンテンツを返す
-               <!doctype html>
-                   <head lang="en">
-                   <meta charset="utf-8">
-                   <title>Test Page</title>
-               </head>
-              <body>
-                  <h3>Test Page</h3>
-               </body>
-               </html>
-           }
-    　   }
+when HTTP_REQUEST {
+    if { [HTTP::uri] eq "/test"} {
+        set content "<!doctype html>\n
+        <head lang=\"en\">\n
+        <meta charset=\"utf-8\">\n
+        <title>Test Page</title>\n
+        </head>\n
+        <body>\n
+          <h3>Test Page</h3>\n
+            <ul>\n
+              <li> Virtual server address: [IP::local_addr] </li>\n
+              <li> Client IP:port: [IP::client_addr]:[TCP::client_port]</li>\n
+            </ul>\n</body>\n</html>"
+        HTTP::respond 200 content $content
     }
+}
 
 |
 
