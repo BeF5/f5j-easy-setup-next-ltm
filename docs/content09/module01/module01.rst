@@ -49,7 +49,6 @@ CM画面左上部のworkspaceから、”Applications”を選択します。
 - 作成するiRuleのスクリプト内容
 
   - HTTP Requestイベント時
-  - IP情報をXFFヘッダに挿入
   - URI Path "/test" へのアクセスの場合、“Test Page”のhtmlコンテンツとステータスコード200をレスポンスする
 
 
