@@ -29,7 +29,7 @@ CLIセッションでリストアコマンドを実行し、設定を復元し�
 
 .. code-block:: cmdin
 
- /opt/cm-bundle/cm restore /home/admin/ backup.20240122-061327.tgz.enc 
+ /opt/cm-bundle/cm restore /home/admin/backup.20240122-061327.tgz.enc 
 
 
 リストア完了のメッセージを確認します。
