@@ -1,7 +1,7 @@
 Central Managerのバックアップ
 ======================================
 
-CLIセッションで作業が必要となるため、UDFのACCESSから"CONSOLE"を選択し、アクセスします。
+CLIセッションで作業が必要となるため、UDFのACCESSから"CONSOLE"を選択し、CMへアクセスします。
 
 .. figure:: images/c13-m1-1.png
    :scale: 50%
