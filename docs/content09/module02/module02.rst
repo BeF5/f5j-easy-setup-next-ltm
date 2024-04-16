@@ -6,7 +6,7 @@ iRuleを部分編集し、履歴管理の機能を確認します。
 iRuleの変更
 --------------------------------------
 
-作成した”irule-test”をクリックします。
+Applications > iRules画面から、作成した”irule-test”をクリックします。
 
 .. figure:: images/c9-m2-1.png
    :scale: 50%
@@ -14,7 +14,7 @@ iRuleの変更
 
 
 |
-メニューから作成した”irule-test”をクリックし、上部”v1”のドロップダウンメニューから“Stage from this version”を選択します。
+画面上部”v1”のドロップダウンメニューから“Stage from this version”を選択します。
 
 .. figure:: images/c9-m2-2.png
    :scale: 50%
@@ -56,7 +56,7 @@ HTMLコンテンツ内容を、"Test Page"から **"Test Page 2"** へと編集�
 --------------------------------------
 
 更新された”v2”のiRuleを適用します。
-Properties画面の上部ドロップダウンから **"v2"** を選択し、 **"Attach Applications"** をクリックします。
+"Properties"をクリックし、画面の上部ドロップダウンから "v2" を選択して "Attach Applications" をクリックします。
 
 .. figure:: images/c9-m2-6.png
    :scale: 50%
