@@ -16,6 +16,8 @@ Instance1 初期設定コマンドの実行
    - **N (設定済み)**
 - Primary NTP server address: 
    - **ntp.nict.jp**
+- Alternate NTP server address 1.ubunutu.pool.ntp.org (Enter):
+   - DefaultのままEnter
 - VLAN1 name: 
    - **external**
 - VLAN1 interface: 
@@ -42,7 +44,7 @@ Instance1 初期設定コマンドの実行
    - **1.1 (Enter)**
 - Please enter a new password ここでadminのパスワード変更を実施: 
    - **Welcome123!**
-- Summaryを確認してy(yes)でEnter
+- Summaryを確認して、設定内容に誤りがなければy(yes)でEnter
 
 
 Instance2 初期設定コマンドの実行
@@ -57,6 +59,8 @@ Instance2 初期設定コマンドの実行
    - **N (設定済み)**
 - Primary NTP server address: 
    - **ntp.nict.jp**
+- Alternate NTP server address 1.ubunutu.pool.ntp.org (Enter):
+   - DefaultのままEnter
 - VLAN1 name: 
    - **external**
 - VLAN1 interface: 
@@ -83,4 +87,4 @@ Instance2 初期設定コマンドの実行
    - **1.1 (Enter)**
 - Please enter a new password ここでadminのパスワード変更を実施: 
    - **Welcome123!**
-- Summaryを確認してy(yes)でEnter
+- Summaryを確認して、設定内容に誤りがなければy(yes)でEnter
