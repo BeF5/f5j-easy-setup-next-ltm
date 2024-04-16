@@ -87,7 +87,7 @@ BIG-IP Next CMからNextインスタンスを管理するためのCredentialを�
 
 - Username:
    - **admin-cm**
-- Password:
+- Password/Confirm Password:
    - **Welcome123!**
 - **"Add Instance"** をクリック
 
