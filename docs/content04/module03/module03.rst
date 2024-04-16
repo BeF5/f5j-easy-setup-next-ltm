@@ -50,7 +50,7 @@ Instance1 初期設定コマンドの実行
 Instance2 初期設定コマンドの実行
 --------------------------------------
 
-- 同様にBIG-IP Next Instance2 側でも **"setup"** コマンドを実行し設定を行います。
+- 4.2.1の手順に従い、BIG-IP Next Instance2の"ACCESS" > "CONSOLE" を選択してログインし、"setup" コマンドを実行して設定を行います。
 
 
 - Hostname:
