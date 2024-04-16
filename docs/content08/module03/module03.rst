@@ -32,7 +32,7 @@ TCP Profileをカスタマイズし、設定項目を追加します。
 |
 キャンセルしてトップに戻ります。
 
-テンプレートの中身も見ていきます。作成した”clone_http”をクリックします。
+テンプレートの中身も見ていきます。"Application Templates"画面で作成した”clone_http”をクリックします。
 
 .. figure:: images/c8-m3-4.png
    :scale: 50%
