@@ -14,7 +14,7 @@ Backup Credentialsで、リストア時に使用するPasswordを設定します
    :scale: 50%
    :align: center
 
-- Encryption Password:
+- Encryption Password/Confirm Password:
    - **backup123**
 - **“Schedule Backup →”** をクリック
 
