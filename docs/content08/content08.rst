@@ -13,7 +13,7 @@
   - https://clouddocs.f5.com/bigip-next/latest/schemasupport/schema-reference.html
 
 |
-テンプレートの実態は以下例のようなJSON/YAML形式のコードです。
+テンプレートから、以下例のようなF5のAPIであるAS3定義（JSON/YAML形式のコード）を生成し、インスタンスの設定が行われます。
 
 .. figure:: images/c8-1.png
    :scale: 60%
@@ -27,6 +27,8 @@
 .. figure:: images/c8-2.png
    :scale: 40%
    :align: center
+
+この画面で実際のテンプレートの作成、編集を行います。
 
 .. figure:: images/c8-3.png
    :scale: 50%
