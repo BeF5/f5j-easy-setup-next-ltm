@@ -29,7 +29,7 @@ CLIセッションでリストアコマンドを実行し、設定を復元し�
 
 .. code-block:: cmdin
 
- /opt/cm-bundle/cm restore /home/admin/backup.20240122-061327.tgz.enc 
+ /opt/cm-bundle/cm restore /home/admin/backup.<バックアップ取得日時>.tgz.enc 
 
 
 リストア完了のメッセージを確認します。
@@ -41,7 +41,8 @@ CLIセッションでリストアコマンドを実行し、設定を復元し�
 
 
 |
-CMのMy Applicationsのリストに、削除したアプリケーションが復元されていることを確認します。
+再度CMにログインして、CMのMy Applicationsのリストに削除したアプリケーションが復元されていることを確認します。
+リストアが完了するまで数分かかります。
 
 .. figure:: images/c13-m2-3.png
    :scale: 50%
