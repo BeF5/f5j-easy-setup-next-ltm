@@ -135,6 +135,7 @@ internal/externalそれぞれのTraffic VLANにfloating ipを追加する設定�
    - **10.1.20.8/24 , Standby Node IP Address**
    - **10.1.20.9/24 , Floating IP Address**
 - **”Save”** をクリック
+- **”Next”** をクリック
 
 
 |
