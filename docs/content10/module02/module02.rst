@@ -10,7 +10,7 @@ Central ManagerへUCSファイルをインポート
 Windows client上のブラウザからCMへアクセスするか、ファイルを自身のPCへコピーしてから次の手順へ進んでください。
 
 
-**"Application Templates"** 画面を開き、
+**"Applications"** 画面を開き、
 My Application Servicesの画面から **”+ Add Application”** をクリックし、次画面で **”New Migration”** を選択します。
 
 .. figure:: images/c10-m2-1.png
