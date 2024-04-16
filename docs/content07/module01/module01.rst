@@ -25,7 +25,7 @@ Windows10 client
 - 秘密鍵ファイル: abcCompany-key.pem
 - サーバ証明書ファイル: abcCompany-cert.pem
 
-これらのファイルをローカルPCにコピーしてローカルPC上のブラウザからCMを操作するか、コピー不可の場合はUDFのWindows10 client上のChromeからCMを開き、次の証明書インポート作業を実施してください。
+これらのファイルをローカルPCにコピーしてローカルPC上のブラウザからCMを操作するか、コピー不可の場合はUDFのWindows10 client上のChromeからCMを開き(https://10.1.1.5)、次の証明書インポート作業を実施してください。
 
 
 |
