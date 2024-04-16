@@ -32,7 +32,7 @@ NEXTインスタンスのCredentialを入力します。
 
 - Username:
    - **admin**
-- Password:
+- Password/Confirm Password:
    - **Welcome123!**
 - **"Next"** をクリック
 
