@@ -84,7 +84,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 
 
 |
-次ページの“Start Adding”をクリックし、設定をデプロイするインスタンスを選択して”+Add to List”。
+次ページの“Start Adding”をクリックし、設定をデプロイするインスタンスを選択して”+Add to List”をクリックします。
 
 .. figure:: images/c6-m1-8.png
    :scale: 40%
