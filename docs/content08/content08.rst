@@ -10,7 +10,7 @@
 - GUI上では未サポートの設定も多数あり、それらはテンプレート内のAPIをカスタマイズして設定する必要があります。
 - サポート機能については以下Schema Reference参照
 
-  - https://clouddocs.f5.com/bigip-next/latest/support/schema-reference.html
+  - https://clouddocs.f5.com/bigip-next/latest/schemasupport/schema-reference.html
 
 |
 テンプレートの実態は以下例のようなJSON/YAML形式のコードです。
