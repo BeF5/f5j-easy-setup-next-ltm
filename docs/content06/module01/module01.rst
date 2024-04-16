@@ -144,7 +144,7 @@ Pool memberを設定します。
 作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
 
 .. figure:: images/c6-m1-13.png
-   :scale: 50%
+   :scale: 35%
    :align: center
 
 
