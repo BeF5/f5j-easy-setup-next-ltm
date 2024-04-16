@@ -14,7 +14,7 @@
    F5 UDFラボでは、リモートデスクトップ接続したPCのデスクトップ上に準備してある証明書を使用します。
 
 Windows10 client 
-デスクトップ > Handson Files > SSL_certs > udf-tmos-bigip.ucs
+デスクトップ > Handson Files > SSL_certs
 
 .. figure:: images/c7-m1-1.png
    :scale: 50%
