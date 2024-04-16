@@ -75,6 +75,11 @@ TCP追加パラメーターとして **"TCP Proxy Buffer High"** を設定しま
               column: 3
               columnName: Protocols & Profiles
 
+変更後のテンプレート
+
+.. figure:: images/c8-m3-6-2.png
+   :scale: 50%
+   :align: center
 
 |
 変更後のテンプレート確認
