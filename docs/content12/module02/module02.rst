@@ -19,7 +19,7 @@ Backup & Restore画面から、バックアップするファイルを選択し�
 
 
 |
-Restore実行中は、完了するまで”Restore in progress”とステータス表示されます。
+My Instance画面に戻って、インスタンスの状態を確認します。Restore実行中は、完了するまで”Restore in progress”とステータス表示されます。
 
 .. figure:: images/c12-m2-3.png
    :scale: 50%
