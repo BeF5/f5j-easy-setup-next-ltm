@@ -4,7 +4,7 @@ BIG-IP Next の初期セットアップ
 Instance1 初期設定コマンドの実行
 --------------------------------------
 
-- BIG-IP Next Instance1 にログイン、**"setup"** コマンドを実行し、ホスト名、Mgmt IP、VLAN、Self IP等の設定を行います。
+BIG-IP Next Instance1 にログイン、 **"setup"** コマンドを実行し、ホスト名、Mgmt IP、VLAN、Self IP等の設定を行います。
 
 .. figure:: images/c4-m3-1.png
    :scale: 40%
@@ -50,7 +50,7 @@ Instance1 初期設定コマンドの実行
 Instance2 初期設定コマンドの実行
 --------------------------------------
 
-- 4.2.1の手順に従い、BIG-IP Next Instance2の"ACCESS" > "CONSOLE" を選択してログインし、"setup" コマンドを実行して設定を行います。
+4.2.1の手順に従い、BIG-IP Next Instance2の "ACCESS" > "CONSOLE" を選択してログインし、 **"setup"** コマンドを実行して設定を行います。
 
 
 - Hostname:
