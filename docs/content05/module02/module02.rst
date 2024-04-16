@@ -71,7 +71,7 @@ BIG-IP Next CMにログインし、Infrastructure (Manage Instances)の画面で
 左部メニューから **“License”** を選択し、 **“Activate License”**　をクリックします。
 
 .. figure:: images/c5-m2-7.png
-   :scale: 40%
+   :scale: 50%
    :align: center
 
 |
