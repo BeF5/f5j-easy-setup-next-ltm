@@ -52,7 +52,7 @@ BIG-IP Next CMからNextインスタンスを管理するためのCredentialを�
 
 
 |
-確認画面が表れますので、”Add”クリックします。
+確認画面が表れるので”Add”クリックし、fingerprintの確認画面が出たら”Accept”をクリックします。
 
 .. figure:: images/c11-m1-5.png
    :scale: 50%
