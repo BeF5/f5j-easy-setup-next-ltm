@@ -53,7 +53,8 @@ My Application Servicesを見ると、Draftとして(instanceへの割り当て�
 
 
 |
-DeployするApplication **"application_1"** をクリックします。
+DeployするApplication として、IPアドレスが ”10.1.10.53/32” のアプリケーション(この例では "application_1")をクリックします。
+※取りこんだ3つのapplicationのいずれか1つを選択いただいて問題ありません。
 
 .. figure:: images/c10-m3-7.png
    :scale: 50%
