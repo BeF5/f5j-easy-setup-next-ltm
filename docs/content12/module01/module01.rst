@@ -20,7 +20,7 @@ Backup Credentialsで、リストア時に使用するPasswordを設定します
 
 
 |
-Schedule Propertiesを設定します。今すぐOne timeでバックアップさせるようなオプションが現時点ないため、デイリー（日次実行）でバックアップを取る時刻と、このスケジュールタスクの終了日時の設定をします。
+Schedule Propertiesを設定します。CMのGUIには、今すぐOne timeでバックアップを取得するオプションが現時点では存在しないため、デイリー (日次実行)でバックアップを取る時刻と、このスケジュールタスクの終了日時の設定をします。
 
 .. figure:: images/c12-m1-3.png
    :scale: 50%

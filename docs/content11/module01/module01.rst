@@ -32,7 +32,7 @@ NEXTインスタンスのCredentialを入力します。
 
 - Username:
    - **admin**
-- Password/Confirm Password:
+- Password:
    - **Welcome123!**
 - **"Next"** をクリック
 
@@ -46,7 +46,7 @@ BIG-IP Next CMからNextインスタンスを管理するためのCredentialを�
 
 - Username:
    - **admin-cm**
-- Password:
+- Password/Confirm Password:
    - **Welcome123!**
 - **"Add Instance"** をクリック
 

@@ -57,7 +57,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 右の **"+ Create"** をクリックします。
 
 .. figure:: images/c6-m1-6.png
-   :scale: 35%
+   :scale: 20%
    :align: center
 
 - Pool Name:
@@ -70,13 +70,18 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
    - **http**
 - 上記設定後、再度 **”Virtual Server”** タブに戻る
 
+.. figure:: images/c6-m1-7.png
+   :scale: 40%
+   :align: center
+
 
 |
 再度Virtual Server設定で、作成したPoolを選択します。
 
-.. figure:: images/c6-m1-7.png
+.. figure:: images/c6-m1-8.png
    :scale: 30%
    :align: center
+
 
 - Pool:
    - **http-pool**　を選択
@@ -86,7 +91,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 |
 次ページの“Start Adding”をクリックし、設定をデプロイするインスタンスを選択して”+Add to List”をクリックします。
 
-.. figure:: images/c6-m1-8.png
+.. figure:: images/c6-m1-9.png
    :scale: 40%
    :align: center
 
@@ -97,7 +102,7 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 |
 次のDeploy画面で、Virtual ServerのIPとPool memberを設定します。
 
-.. figure:: images/c6-m1-9.png
+.. figure:: images/c6-m1-10.png
    :scale: 30%
    :align: center
 
@@ -109,11 +114,11 @@ Poolを作成します。　Pool memberのIPは後工程のアプリケーショ
 |
 Pool memberを設定します。
 
-.. figure:: images/c6-m1-10.png
+.. figure:: images/c6-m1-11.png
    :scale: 30%
    :align: center
 
-- **“+Add Row”** を２回クリックし2member分作成
+- **“+Add Row”** を2回クリックし2member分作成
 - Pool Members:
    - Name: **web-server1** , IP Address: **10.1.20.101**
    - Name: **web-server2** , IP Address: **10.1.20.102**
@@ -123,7 +128,7 @@ Pool memberを設定します。
 |
 設定内容に問題ないかを適用前に検証し、本番適用します。
 
-.. figure:: images/c6-m1-11.png
+.. figure:: images/c6-m1-12.png
    :scale: 30%
    :align: center
 
@@ -135,7 +140,7 @@ Pool memberを設定します。
 |
 作成したアプリケーションがリストに表示されます。
 
-.. figure:: images/c6-m1-12.png
+.. figure:: images/c6-m1-13.png
    :scale: 50%
    :align: center
 
@@ -143,7 +148,7 @@ Pool memberを設定します。
 |
 作成したアプリケーションをクリックすると、設定オブジェクトと状態確認、設定編集が可能です。
 
-.. figure:: images/c6-m1-13.png
+.. figure:: images/c6-m1-14.png
    :scale: 35%
    :align: center
 
